@@ -30,22 +30,22 @@
                 </div>
                 <nav id="nav-menu-container">
                     <ul class="nav-menu">
-                        <li class="menu-active"><a href="index.html">Home</a></li>
-                        <li><a href="departments.html">departmentss</a></li>
-                        <li><a href="doctors.html">doctors</a></li>
+                        <li class="menu-active"><a href="index">Home</a></li>
+                        <li><a href="departments">departmentss</a></li>
+                        <li><a href="doctors">doctors</a></li>
                         <li class="menu-has-children"><a href="">Pages</a>
                             <ul>
-                                <li><a href="about.html">about us</a></li>
-                                <li><a href="elements.html">elements</a></li>
+                                <li><a href="about">about us</a></li>
+                                <li><a href="elements">elements</a></li>
                             </ul>
                         </li>
                         <li class="menu-has-children"><a href="">blog</a>
                             <ul>
-                                <li><a href="blog-home.html">blog home</a></li>
-                                <li><a href="blog-details.html">blog details</a></li>
+                                <li><a href="blog-home">blog home</a></li>
+                                <li><a href="blog-details">blog details</a></li>
                             </ul>
                         </li>
-                        <li><a href="contact.html">Contact</a></li>			          				          
+                        <li><a href="contact">Contact</a></li>			          				          
                     </ul>
                 </nav><!-- #nav-menu-container -->		    		
                 </div>
