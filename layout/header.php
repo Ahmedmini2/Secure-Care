@@ -23,8 +23,16 @@
 
     // Process translation
     $(function() {
-      $('.translate2').on('change',function() {
-        var lang = $('.lang-sel').attr('id');
+      $('.translate2').click(function() {
+        var lang = $(this).attr('id');
+        if (lang == 'en') {
+            $(this).attr('id', 'ar');
+            $(this).html('عربي');
+        }else{
+            $(this).attr('id', 'en');
+            $(this).html('English');
+
+        }
 
         $('.lang').each(function(index, item) {
           $(this).text(arrLang[lang][$(this).attr('key')]);
@@ -99,10 +107,7 @@
                              </ul>
                          </li>
                          <li>
-                         <select class="translate2">
-                            <option id="ar" class="lang-sel" value="عربي">عربي</option>
-                            <option id="en" class="lang-sel" value="English">English</option>
-                         </select>
+                         <button id="ar" class="translate2">عربي</button>
                          </li>
                      </ul>
                  </nav><!-- #nav-menu-container -->
