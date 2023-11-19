@@ -44,15 +44,17 @@
                              </ul>
                          </li>
 
+                         <li><a href="about">About Us</a></li>
 
-                         <li><a href="doctors">doctors</a></li>
 
-
-                         <li class="menu-has-children"><a href="">Pages</a>
+                         <li class="menu-has-children"><a href="">Contact Us</a>
 
                              <ul>
-                                 <li><a href="about">about us</a></li>
-                                 <li><a href="elements">elements</a></li>
+                                
+                             <li><a href="address">Address</a></li>
+                             <li><a href="phone">Phone</a></li>
+                             <li><a href="email">Email</a></li>
+                             <li><a href="contact_form">Contact Form</a></li>
                              </ul>
                          </li>
                          <li class="menu-has-children"><a href="">blog</a>
