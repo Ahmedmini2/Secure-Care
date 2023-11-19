@@ -63,10 +63,12 @@
                                  <li><a href="blog-details">blog details</a></li>
                              </ul>
                          </li>
+                         <li>
                          <select class="translate">
                             <option id="ar" value="عربي">عربي</option>
                             <option id="en" value="English">English</option>
                          </select>
+                         </li>
                      </ul>
                  </nav><!-- #nav-menu-container -->
              </div>
