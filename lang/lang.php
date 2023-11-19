@@ -24,7 +24,7 @@
     // Process translation
     $(function() {
       $('.translate2').on('select',function() {
-        var lang = $(this).attr('id');
+        var lang = $('.lang-sel').attr('id');
 
         $('.lang').each(function(index, item) {
           $(this).text(arrLang[lang][$(this).attr('key')]);
