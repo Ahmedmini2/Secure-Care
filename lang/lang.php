@@ -23,7 +23,7 @@
 
     // Process translation
     $(function() {
-      $('.translate').click(function() {
+      $('.translate').on('select',function() {
         var lang = $(this).attr('id');
 
         $('.lang').each(function(index, item) {

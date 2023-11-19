@@ -31,9 +31,9 @@
                  <nav id="nav-menu-container">
                      <ul class="nav-menu">
 
-                         <li class="menu-active"><a href="index">Home</a></li>
+                         <li class="menu-active"><a class="lang" key="home" href="index">Home</a></li>
 
-                         <li class="menu-has-children"><a href="">Services</a>
+                         <li class="menu-has-children"><a class="lang" key="services" href="">Services</a>
 
                              <ul>
                                  <li><a href="Determination">Trading Equipment for Individuals with Determination</a></li>
@@ -44,10 +44,10 @@
                              </ul>
                          </li>
 
-                         <li><a href="about">About Us</a></li>
+                         <li><a class="lang" href="about">About Us</a></li>
 
 
-                         <li class="menu-has-children"><a href="">Contact Us</a>
+                         <li class="menu-has-children"><a class="lang" href="">Contact Us</a>
 
                              <ul>
                                 
@@ -63,6 +63,10 @@
                                  <li><a href="blog-details">blog details</a></li>
                              </ul>
                          </li>
+                         <select class="translate">
+                            <option id="ar" value="عربي">عربي</option>
+                            <option id="en" value="English">English</option>
+                         </select>
                      </ul>
                  </nav><!-- #nav-menu-container -->
              </div>
