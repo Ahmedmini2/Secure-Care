@@ -87,10 +87,10 @@
                              </ul>
                          </li>
 
-                         <li><a class="lang" href="about">About Us</a></li>
+                         <li><a class="lang" key="about" href="about">About Us</a></li>
 
 
-                         <li class="menu-has-children"><a class="lang" href="">Contact Us</a>
+                         <li class="menu-has-children"><a class="lang" key="contact" href="">Contact Us</a>
 
                              <ul>
                                 
