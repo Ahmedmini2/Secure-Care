@@ -33,30 +33,17 @@
 
                          <li class="menu-active"><a href="index">Home</a></li>
 
-                         <li class="nav-item dropdown" id="myDropdown">
-                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"> Services </a>
-                             <ul class="dropdown-menu">
-                                 <li> <a class="dropdown-item" href="#"> Trading Equipment for Individuals with Determination </a></li>
-                                 <li> <a class="dropdown-item" href="#"> Trading Paper Products &raquo; </a>
-                                     <ul class="submenu dropdown-menu">
-                                         <li><a class="dropdown-item" href="#">Submenu item 1</a></li>
-                                         <li><a class="dropdown-item" href="#">Submenu item 2</a></li>
-                                         <li><a class="dropdown-item" href="#">Submenu item 3 &raquo; </a>
-                                             <ul class="submenu dropdown-menu">
-                                                 <li><a class="dropdown-item" href="#">Multi level 1</a></li>
-                                                 <li><a class="dropdown-item" href="#">Multi level 2</a></li>
-                                             </ul>
-                                         </li>
-                                         <li><a class="dropdown-item" href="#">Submenu item 4</a></li>
-                                         <li><a class="dropdown-item" href="#">Submenu item 5</a></li>
-                                     </ul>
-                                 </li>
-                                 <li><a class="dropdown-item" href="#"> Trading Pharmaceutical Non-Drug Products </a></li>
-                                 <li><a class="dropdown-item" href="#"> Trading Cosmetics & Perfumes </a></li>
-                                 <li><a class="dropdown-item" href="#"> Trading Surgical and Medical Requisites </a></li>
+                         <li class="menu-has-children"><a href="">Services</a>
+
+                             <ul>
+                                 <li><a href="Determination">Trading Equipment for Individuals with Determination</a></li>
+                                 <li><a href="Products">Trading Paper Products</a></li>
+                                 <li><a href="Pharmaceutical">Trading Pharmaceutical Non-Drug Products</a></li>
+                                 <li><a href="Cosmetics">Trading Cosmetics & Perfumes</a></li>
+                                 <li><a href="Surgical">Trading Surgical and Medical Requisites</a></li>
                              </ul>
                          </li>
-                       
+
 
                          <li><a href="doctors">doctors</a></li>
 
