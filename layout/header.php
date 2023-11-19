@@ -68,13 +68,12 @@
                                  <li><a href="elements">elements</a></li>
                              </ul>
                          </li>
-                         <li class="menu-has-children"><a href="">blog</a>
+
                              <ul>
                                  <li><a href="blog-home">blog home</a></li>
                                  <li><a href="blog-details">blog details</a></li>
                              </ul>
                          </li>
-                         <li><a href="contact">Contact</a></li>
                      </ul>
                  </nav><!-- #nav-menu-container -->
              </div>
