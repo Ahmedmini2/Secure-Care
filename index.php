@@ -3,7 +3,7 @@
 <?php include('layout/head.php'); ?>
 <body>
 <?php include('layout/loader.php'); ?>  
-
+<?php include('lang/lang.php'); ?>
 <?php include('layout/header.php'); ?>
 
    

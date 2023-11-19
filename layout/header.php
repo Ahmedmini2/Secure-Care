@@ -64,7 +64,7 @@
                              </ul>
                          </li>
                          <li>
-                         <select class="translate">
+                         <select class="translate2">
                             <option id="ar" value="عربي">عربي</option>
                             <option id="en" value="English">English</option>
                          </select>
