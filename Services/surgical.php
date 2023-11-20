@@ -16,7 +16,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Pharmaceutical</h1>
+                    <h1>Surgical</h1>
                     <a href="index.html">Home</a> <span>|</span> <a href="about.html">About Us</a>
                 </div>
             </div>
