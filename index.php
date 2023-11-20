@@ -88,8 +88,8 @@
             <div class="row">
                 <div class="col-lg-6 offset-lg-3">
                     <div class="section-top text-center">
-                        <h2>Popular department</h2>
-                        <p>Green above he cattle god saw day multiply under fill in the cattle fowl a all, living, tree word link available in the service for subdue fruit.</p>
+                        <h2>Popular Services</h2>
+                        <p>Every wheelchair, adaptive tool, pharmaceutical non-drug product, cosmetic, and surgical requisite is chosen with a purpose – to contribute to the well-being and empowerment of those we serve.</p>
                     </div>
                 </div>
             </div>
@@ -98,50 +98,62 @@
                     <div class="department-slider owl-carousel">
                         <div class="single-slide">
                             <div class="slide-img">
-                                <img src="assets/images/department1.jpg" alt="" class="img-fluid">
+                                <img src="assets/images/department5.png" alt="" class="img-fluid">
                                 <div class="hover-state">
                                     <a href="#"><i class="fa fa-stethoscope"></i></a>
                                 </div>
                             </div>
                             <div class="single-department item-padding text-center">
-                                <h3>cardiac clinic</h3>
-                                <p>Hath creeping subdue he fish gred face whose spirit that seasons today multiply female midst upon</p>
+                                <h3>Trading Pharmaceutical Non-Drug Products</h3>
+                                <p>Step into a world where wellness is not just a concept but a tangible reality. Our range of non-drug products is carefully curated to enhance health, from personal care to wellness items</p>
                             </div>
                         </div>
                         <div class="single-slide">
                             <div class="slide-img">
-                                <img src="assets/images/department2.jpg" alt="" class="img-fluid">
+                                <img src="assets/images/department3.png" alt="" class="img-fluid">
                                 <div class="hover-state">
                                     <a href="departments.html"><i class="fa fa-stethoscope"></i></a>
                                 </div>
                             </div>
                             <div class="single-department item-padding text-center">
-                                <h3>plastic surgery</h3>
-                                <p>Hath creeping subdue he fish gred face whose spirit that seasons today multiply female midst upon</p>
+                                <h3>Trading Cosmetics & Perfumes</h3>
+                                <p>Indulge in luxury without compromise. Our cosmetics and perfumes are selected not just for their elegance but for the care they bring to your well-being.</p>
                             </div>
                         </div>
                         <div class="single-slide">
                             <div class="slide-img">
-                                <img src="assets/images/department3.jpg" alt="" class="img-fluid">
+                                <img src="assets/images/department4.png" alt="" class="img-fluid">
                                 <div class="hover-state">
                                     <a href="departments.html"><i class="fa fa-stethoscope"></i></a>
                                 </div>
                             </div>
                             <div class="single-department item-padding text-center">
-                                <h3>dental clinic</h3>
-                                <p>Hath creeping subdue he fish gred face whose spirit that seasons today multiply female midst upon</p>
+                                <h3>Trading Surgical and Medical Requisites</h3>
+                                <p>For healthcare professionals and institutions, we offer more than supplies; we provide peace of mind. Our comprehensive range of surgical and medical requisites ensures that you can focus on what matters most—patient care.</p>
                             </div>
                         </div>
                         <div class="single-slide">
                             <div class="slide-img">
-                                <img src="assets/images/department1.jpg" alt="" class="img-fluid">
+                                <img src="assets/images/department2.png" alt="" class="img-fluid">
                                 <div class="hover-state">
                                     <a href="departments.html"><i class="fa fa-stethoscope"></i></a>
                                 </div>
                             </div>
                             <div class="single-department item-padding text-center">
-                                <h3>cardiac clinic</h3>
-                                <p>Hath creeping subdue he fish gred face whose spirit that seasons today multiply female midst upon</p>
+                                <h3>Trading Paper Products</h3>
+                                <p>Our paper products are more than just supplies; they are a commitment to sustainability and reliability. From medical disposables to eco-friendly office essentials, we deliver products that align with your values.</p>
+                            </div>
+                        </div>
+                        <div class="single-slide">
+                            <div class="slide-img">
+                                <img src="assets/images/department1.png" alt="" class="img-fluid">
+                                <div class="hover-state">
+                                    <a href="departments.html"><i class="fa fa-stethoscope"></i></a>
+                                </div>
+                            </div>
+                            <div class="single-department item-padding text-center">
+                                <h3>Trading Equipment for Individuals with Determination</h3>
+                                <p>Every product in this category is designed to be a game-changer. From state-of-the-art mobility aids to adaptive tools that seamlessly integrate into daily life, our offerings prioritize not just function but dignity and empowerment.</p>
                             </div>
                         </div>
                     </div>
