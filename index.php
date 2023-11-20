@@ -110,7 +110,7 @@
                         </div>
                         <div class="single-slide">
                             <div class="slide-img">
-                                <img src="assets/images/department3.jpg" alt="" class="img-fluid">
+                                <img src="assets/images/department3.png" alt="" class="img-fluid">
                                 <div class="hover-state">
                                     <a href="departments.html"><i class="fa fa-stethoscope"></i></a>
                                 </div>
@@ -122,7 +122,7 @@
                         </div>
                         <div class="single-slide">
                             <div class="slide-img">
-                                <img src="assets/images/department4.jpg" alt="" class="img-fluid">
+                                <img src="assets/images/department4.png" alt="" class="img-fluid">
                                 <div class="hover-state">
                                     <a href="departments.html"><i class="fa fa-stethoscope"></i></a>
                                 </div>
@@ -134,7 +134,7 @@
                         </div>
                         <div class="single-slide">
                             <div class="slide-img">
-                                <img src="assets/images/department2.jpg" alt="" class="img-fluid">
+                                <img src="assets/images/department2.png" alt="" class="img-fluid">
                                 <div class="hover-state">
                                     <a href="departments.html"><i class="fa fa-stethoscope"></i></a>
                                 </div>
@@ -146,7 +146,7 @@
                         </div>
                         <div class="single-slide">
                             <div class="slide-img">
-                                <img src="assets/images/department1.jpg" alt="" class="img-fluid">
+                                <img src="assets/images/department1.png" alt="" class="img-fluid">
                                 <div class="hover-state">
                                     <a href="departments.html"><i class="fa fa-stethoscope"></i></a>
                                 </div>
