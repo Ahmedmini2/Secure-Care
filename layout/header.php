@@ -37,11 +37,11 @@
 
                          <li class="menu-has-children"><a class="lang" key="services" href="">Services</a>
                              <ul>
-                                 <li><a href="Services/equipment">Trading Equipment for Individuals with Determination</a></li>
-                                 <li><a href="Services/papr_products">Trading Paper Products</a></li>
-                                 <li><a href="Services/pharmaceutical">Trading Pharmaceutical Non-Drug Products</a></li>
-                                 <li><a href="Services/cosmetics">Trading Cosmetics & Perfumes</a></li>
-                                 <li><a href="Services/surgical">Trading Surgical and Medical Requisites</a></li>
+                                 <li><a href="equipment">Trading Equipment for Individuals with Determination</a></li>
+                                 <li><a href="paper_products">Trading Paper Products</a></li>
+                                 <li><a href="pharmaceutical">Trading Pharmaceutical Non-Drug Products</a></li>
+                                 <li><a href="cosmetics">Trading Cosmetics & Perfumes</a></li>
+                                 <li><a href="surgical">Trading Surgical and Medical Requisites</a></li>
                              </ul>
 
 
