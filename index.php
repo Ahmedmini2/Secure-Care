@@ -29,28 +29,28 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="single-feature text-center item-padding">
-                        <img src="assets/images/feature1.png" alt="">
+                        <img src="assets/images/puzzle.png" alt="">
                         <h3>Inclusive Solutions</h3>
                         <p class="pt-3">We go beyond functionality. Our products are thoughtfully designed to promote inclusivity, ensuring that every individual, regardless of ability, has access to the tools they need for a fulfilling life.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="single-feature text-center item-padding mt-4 mt-md-0">
-                        <img src="assets/images/feature2.png" alt="">
+                        <img src="assets/images/shield0.png" alt="">
                         <h3>Quality Assurance</h3>
                         <p class="pt-3">Your well-being is our top priority. Every product undergoes rigorous quality checks to guarantee reliability and performance. With Secure Care, you can trust in the quality of your purchase.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="single-feature text-center item-padding mt-4 mt-lg-0">
-                        <img src="assets/images/feature3.png" alt="">
+                        <img src="assets/images/shield.png" alt="">
                         <h3>Best Empowerment</h3>
                         <p class="pt-3">When you're seeking solutions that empower. Our carefully curated selection of medical equipment is designed to restore independence and dignity, providing a path to a more empowered life.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="single-feature text-center item-padding mt-4 mt-lg-0">
-                        <img src="assets/images/feature4.png" alt="">
+                        <img src="assets/images/target.png" alt="">
                         <h3>Customer-Centric Approach</h3>
                         <p class="pt-3">Your journey with Secure Care doesn't end with a transaction. We are committed to a customer-centric approach, providing ongoing support and guidance. Our team is here to assist you at every step.</p>
                     </div>
