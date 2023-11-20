@@ -42,10 +42,8 @@ h6{
     color:#777;
     font-size:12px !important;
     font-family:"Roboto",sans-serif;
-    font-weight:500
-}
-.uppercase{
     text-transform:uppercase;
+    font-weight:500
 }
 ul{
     margin:0;
@@ -2795,4 +2793,7 @@ h6{
 .item-padding{
     padding:40px 20px
 }
- 
+.btnTran{
+    
+}
+    
