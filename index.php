@@ -98,25 +98,13 @@
                     <div class="department-slider owl-carousel">
                         <div class="single-slide">
                             <div class="slide-img">
-                                <img src="assets/images/department1.jpg" alt="" class="img-fluid">
+                                <img src="assets/images/department5.png" alt="" class="img-fluid">
                                 <div class="hover-state">
                                     <a href="#"><i class="fa fa-stethoscope"></i></a>
                                 </div>
                             </div>
                             <div class="single-department item-padding text-center">
-                                <h3>cardiac clinic</h3>
-                                <p>Hath creeping subdue he fish gred face whose spirit that seasons today multiply female midst upon</p>
-                            </div>
-                        </div>
-                        <div class="single-slide">
-                            <div class="slide-img">
-                                <img src="assets/images/department2.jpg" alt="" class="img-fluid">
-                                <div class="hover-state">
-                                    <a href="departments.html"><i class="fa fa-stethoscope"></i></a>
-                                </div>
-                            </div>
-                            <div class="single-department item-padding text-center">
-                                <h3>plastic surgery</h3>
+                                <h3>Trading Pharmaceutical Non-Drug Products</h3>
                                 <p>Hath creeping subdue he fish gred face whose spirit that seasons today multiply female midst upon</p>
                             </div>
                         </div>
@@ -128,7 +116,31 @@
                                 </div>
                             </div>
                             <div class="single-department item-padding text-center">
-                                <h3>dental clinic</h3>
+                                <h3>Trading Cosmetics & Perfumes</h3>
+                                <p>Hath creeping subdue he fish gred face whose spirit that seasons today multiply female midst upon</p>
+                            </div>
+                        </div>
+                        <div class="single-slide">
+                            <div class="slide-img">
+                                <img src="assets/images/department4.jpg" alt="" class="img-fluid">
+                                <div class="hover-state">
+                                    <a href="departments.html"><i class="fa fa-stethoscope"></i></a>
+                                </div>
+                            </div>
+                            <div class="single-department item-padding text-center">
+                                <h3>Trading Surgical and Medical Requisites</h3>
+                                <p>Hath creeping subdue he fish gred face whose spirit that seasons today multiply female midst upon</p>
+                            </div>
+                        </div>
+                        <div class="single-slide">
+                            <div class="slide-img">
+                                <img src="assets/images/department2.jpg" alt="" class="img-fluid">
+                                <div class="hover-state">
+                                    <a href="departments.html"><i class="fa fa-stethoscope"></i></a>
+                                </div>
+                            </div>
+                            <div class="single-department item-padding text-center">
+                                <h3>Trading Paper Products</h3>
                                 <p>Hath creeping subdue he fish gred face whose spirit that seasons today multiply female midst upon</p>
                             </div>
                         </div>
@@ -140,7 +152,7 @@
                                 </div>
                             </div>
                             <div class="single-department item-padding text-center">
-                                <h3>cardiac clinic</h3>
+                                <h3>Trading Equipment for Individuals with Determination</h3>
                                 <p>Hath creeping subdue he fish gred face whose spirit that seasons today multiply female midst upon</p>
                             </div>
                         </div>
