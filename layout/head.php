@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <!-- Page Title -->
-    <title>Secure Care</title>
+    <title>Securecare</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/images/logo/favicon2.png" type="image/x-icon">

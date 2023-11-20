@@ -38,7 +38,7 @@
                     <div class="single-feature text-center item-padding mt-4 mt-md-0">
                         <img src="assets/images/shield0.png" alt="">
                         <h3>Quality Assurance</h3>
-                        <p class="pt-3">Your well-being is our top priority. Every product undergoes rigorous quality checks to guarantee reliability and performance. With Secure Care, you can trust in the quality of your purchase.</p>
+                        <p class="pt-3">Your well-being is our top priority. Every product undergoes rigorous quality checks to guarantee reliability and performance. With Securecare, you can trust in the quality of your purchase.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -52,7 +52,7 @@
                     <div class="single-feature text-center item-padding mt-4 mt-lg-0">
                         <img src="assets/images/target.png" alt="">
                         <h3>Customer-Centric Approach</h3>
-                        <p class="pt-3">Your journey with Secure Care doesn't end with a transaction. We are committed to a customer-centric approach, providing ongoing support and guidance. Our team is here to assist you at every step.</p>
+                        <p class="pt-3">Your journey with Securecare doesn't end with a transaction. We are committed to a customer-centric approach, providing ongoing support and guidance. Our team is here to assist you at every step.</p>
                     </div>
                 </div>
             </div>
@@ -71,10 +71,10 @@
                 </div>
                 <div class="col-lg-7">
                     <div class="welcome-text mt-5 mt-lg-0">
-                        <h2>Welcome to our clinic</h2>
-                        <p class="pt-3">Subdue whales void god which living don't midst lesser yielding over lights whose. Cattle greater brought sixth fly den dry good tree isn't seed stars were.</p>
-                        <p>Subdue whales void god which living don't midst lesser yielding over lights whose. Cattle greater brought sixth fly den dry good tree isn't seed stars were the boring.</p>
-                        <a href="#" class="template-btn mt-3">learn more</a>
+                        <h2>Welcome to Securecare</h2>
+                        <p class="pt-3">Securecare stands as a beacon of excellence in the healthcare industry. Born from a passion for improving lives, </p>
+                        <p>Our mission is to redefine the standard of care for individuals with determination. Our values are the cornerstone of everything we do</p>
+                        <a href="#" class="template-btn mt-3">Read More</a>
                     </div>
                 </div>
             </div>
