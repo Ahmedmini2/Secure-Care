@@ -2793,7 +2793,34 @@ h6{
 .item-padding{
     padding:40px 20px
 }
-.btnTran{
+
+.btn-outline-secondary {
+    color: #09809a;
+    background-color: transparent;
+    background-image: none;
     
+}
+
+.btn-outline-secondary:hover {
+    color: #fff;
+  
+}
+
+.btn-outline-secondary.focus,.btn-outline-secondary:focus {
+    box-shadow: 0 0 0 .2rem
+}
+
+.btn-outline-secondary.disabled,.btn-outline-secondary:disabled {
+    
+    background-color: transparent
+}
+
+.btn-outline-secondary:not(:disabled):not(.disabled).active,.btn-outline-secondary:not(:disabled):not(.disabled):active,.show>.btn-outline-secondary.dropdown-toggle {
+    color: #fff;
+    
+}
+
+.btn-outline-secondary:not(:disabled):not(.disabled).active:focus,.btn-outline-secondary:not(:disabled):not(.disabled):active:focus,.show>.btn-outline-secondary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 .2rem
 }
     
