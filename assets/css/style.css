@@ -42,8 +42,10 @@ h6{
     color:#777;
     font-size:12px !important;
     font-family:"Roboto",sans-serif;
-    text-transform:uppercase;
     font-weight:500
+}
+.uppercase{
+    text-transform:uppercase;
 }
 ul{
     margin:0;
