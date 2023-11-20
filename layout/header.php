@@ -59,7 +59,7 @@
                              </ul>
                          </li>
                          <li>
-                         <button id="ar" class="translate2  btn btn-outline-secondary">عربي</button>
+                         <button id="ar" class="translate2  btn btn-secondary">عربي</button>
                          </li>
                      </ul>
                  </nav><!-- #nav-menu-container -->
