@@ -35,7 +35,7 @@
 
                          <li class="menu-active"><a class="lang" key="home" href="index">Home</a></li>
 
-                         <li class="menu-has-children lang" key="services">Services
+                         <li class="menu-has-children"><a class="lang" key="services">Services</a>
                              <ul>
                                  <li><a href="equipment">Trading Equipment for Individuals with Determination</a></li>
                                  <li><a href="paper_products">Trading Paper Products</a></li>
@@ -52,7 +52,7 @@
 
                          <li><a class="lang" key="contact" href="">Contact Us</a></li>
 
-                         <li class="menu-has-children lang" key="blogs" >Blogs
+                         <li class="menu-has-children"><a class="lang" key="blogs">Blogs</a>
                              <ul>
                                  <li><a href="blog-home">blog home</a></li>
                                  <li><a href="blog-details">blog details</a></li>
