@@ -66,7 +66,7 @@
             <div class="row">
                 <div class="col-lg-5 align-self-center">
                     <div class="welcome-img">
-                        <img src="assets/images/welcome2.png" alt="">
+                        <img src="assets/images/welcome2.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-7">
