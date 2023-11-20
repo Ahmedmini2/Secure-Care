@@ -54,8 +54,8 @@
                             <i class="fa fa-home"></i>
                         </div>
                         <div class="info-text">
-                            <h3>California, United States</h3>
-                            <p>Santa monica bullevard</p>
+                            <h3>Dubai, United Arab Emirates</h3>
+                            <p>Al Kalbani Building - Al Khabaisi - Dubai</p>
                         </div>
                     </div>
                     <div class="d-flex">
@@ -72,7 +72,7 @@
                             <i class="fa fa-envelope-o"></i>
                         </div>
                         <div class="info-text">
-                            <h3>support@colorlib.com</h3>
+                            <h3>info@securecare.ae</h3>
                             <p>Send us your query anytime!</p>
                         </div>
                     </div>

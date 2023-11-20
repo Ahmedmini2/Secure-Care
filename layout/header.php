@@ -6,9 +6,9 @@
          <div class="container">
              <div class="row">
                  <div class="col-lg-9 d-md-flex">
-                     <h6 class="mr-3"><span class="mr-2"><i class="fa fa-mobile"></i></span> call us now! +1 305 708 2563</h6>
-                     <h6 class="mr-3"><span class="mr-2"><i class="fa fa-envelope-o"></i></span> Secure Care@Secure Care.com</h6>
-                     <h6><span class="mr-2"><i class="fa fa-map-marker"></i></span> Find our Location</h6>
+                     <h6 class="mr-3"><span class="mr-2"><i class="fa fa-mobile"></i></span> call us now! +966 04 450 8488</h6>
+                     <h6 class="mr-3"><span class="mr-2"><i class="fa fa-envelope-o"></i></span> info@securecare.ae</h6>
+                     <a href="#"><h6><span class="mr-2"><i class="fa fa-map-marker"></i></span> Find our Location</h6><a href="#">
                  </div>
                  <div class="col-lg-3">
                      <div class="social-links">
@@ -36,7 +36,6 @@
                          <li class="menu-active"><a class="lang" key="home" href="index">Home</a></li>
 
                          <li class="menu-has-children"><a class="lang" key="services" href="">Services</a>
-
                              <ul>
                                  <li><a href="Determination">Trading Equipment for Individuals with Determination</a></li>
                                  <li><a href="Products">Trading Paper Products</a></li>
@@ -49,17 +48,9 @@
                          <li><a class="lang" key="about" href="about">About Us</a></li>
 
 
-                         <li class="menu-has-children"><a class="lang" key="contact" href="">Contact Us</a>
+                         <li><a class="lang" key="contact" href="">Contact Us</a></li>
 
-                             <ul>
-                                
-                             <li><a href="address">Address</a></li>
-                             <li><a href="phone">Phone</a></li>
-                             <li><a href="email">Email</a></li>
-                             <li><a href="contact_form">Contact Form</a></li>
-                             </ul>
-                         </li>
-
+                         <li class="menu-has-children"><a class="lang" key="blogs" href="">Blogs</a>
                              <ul>
                                  <li><a href="blog-home">blog home</a></li>
                                  <li><a href="blog-details">blog details</a></li>
