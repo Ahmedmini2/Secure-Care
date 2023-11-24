@@ -52,10 +52,9 @@
               <li><i class="fa fa-check-circle"></i> Value:</li>
             </ul>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
+            <h3>Customer-Centric Approach:</h3> The heart of our approach is centered around our customers. We prioritize the needs and experiences of each individual, ensuring that they feel heard, supported, and valued at every interaction.</p>
+            <p><h3>Continuous Improvement:</h3> We are committed to a culture of continuous improvement. Actively seeking feedback, we use it as a catalyst for growth and development, enabling us to evolve and meet the ever-changing needs of our customers.</p>
+            
           </div>
         </div>
 
