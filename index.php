@@ -7,13 +7,10 @@
 <?php include('layout/header.php'); ?>
 
    
-<section id="hero" class="banner-area2 d-flex align-items-center justify-content-center">
+
     <!-- Banner Area Starts -->
-    <video autoplay muted loop id="myVideo">
-            <source src="assets/images/main-vid.mp4" type="video/mp4">
-        </video>
-    
-        <div class="container position-absolute">
+    <section class="banner-area">
+        <div class="container">
             <div class="row">
                 <div class="col-lg-5">
                     <h4>Caring for better life</h4>
@@ -23,7 +20,7 @@
                 </div>
             </div>
         </div>
-</section>
+    </section>
     <!-- Banner Area End -->
 
     <!-- Feature Area Starts -->
