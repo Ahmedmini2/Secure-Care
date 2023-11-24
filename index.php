@@ -191,8 +191,8 @@
                 </div>
                 <div class="col-lg-5 offset-lg-1 align-self-center">
                     <div class="appointment-form text-center mt-5 mt-lg-0">
-                        <h3 class="mb-5">appointment now</h3>
-                        <form action="#">
+                        <h3 class="mb-5">Contact Us </h3>
+                        <form action="#" method="POST">
                             <div class="form-group">
                                 <input type="text" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" required>
                             </div>
@@ -200,12 +200,12 @@
                                 <input type="email" placeholder="Your Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" required> 
                             </div>
                             <div class="form-group">
-                                <input type="text" id="datepicker" placeholder="Date" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date'" required>
+                                <input type="text" id="datepicker" placeholder="Subject" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Subject'" required>
                             </div>
                             <div class="form-group">
                                 <textarea name="message" cols="20" rows="7"  placeholder="Message" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Message'" required></textarea>
                             </div>
-                            <a href="#" class="template-btn">appointment now</a>
+                            <button type="submit" name="submit" class="template-btn">Contact Us</button>
                         </form>
                     </div>
                 </div>
@@ -215,7 +215,7 @@
     <!-- Patient Area Starts -->
 
     <!-- Specialist Area Starts -->
-    <section class="specialist-area section-padding">
+    <!-- <section class="specialist-area section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 offset-lg-3">
@@ -316,7 +316,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Specialist Area Starts -->
 
     <!-- Hotline Area Starts -->
