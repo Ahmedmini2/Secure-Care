@@ -9,7 +9,10 @@
    
 
     <!-- Banner Area Starts -->
-    <section class="banner-area">
+    <video autoplay muted loop id="myVideo">
+            <source src="https://www.w3schools.com/howto/rain.mp4" type="video/mp4">
+        </video>
+    
         <div class="container">
             <div class="row">
                 <div class="col-lg-5">
@@ -20,7 +23,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    
     <!-- Banner Area End -->
 
     <!-- Feature Area Starts -->
