@@ -66,7 +66,9 @@
             <div class="row">
                 <div class="col-lg-5 align-self-center">
                     <div class="welcome-img">
-                        <img src="assets/images/welcome2.jpg" alt="">
+                    <video autoplay muted loop id="myVideo">
+                        <source src="assets/images/welcome.mp4" type="video/mp4">
+                    </video>
                     </div>
                 </div>
                 <div class="col-lg-7">
