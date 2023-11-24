@@ -38,24 +38,24 @@
     <!-- Three columns of text below the carousel -->
     <div class="row section-padding">
       <div class="col-lg-4 d-flex  flex-column justify-content-center align-items-center">
-        <img src="assets/images/cosmetics.png" alt="Cosmetics"></img>
+        <img src="assets/images/cosmetics.png" alt="Cosmetics" width="140px"></img>
 
         <h2>Skincare</h2>
-        <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
+        <p>Elevate your glow with our curated skincare essentials—cleansers, serums, and sunscreens designed for radiant, happy skin.</p>
         
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4 d-flex flex-column justify-content-center align-items-center">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+      <img src="assets/images/cosmetics2.png" alt="Cosmetics" width="140px"></img>
 
         <h2>Hair Care</h2>
-        <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
+        <p>Transform your locks with our premium haircare—vibrant colors, sleek styles, and nourishing treatments for luscious, shining hair.</p>
         
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4 d-flex flex-column justify-content-center align-items-center">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+      <img src="assets/images/cosmetics3.png" alt="Cosmetics" width="140px"></img>
 
-        <h2>Heading</h2>
-        <p>And lastly this, the third column of representative placeholder content.</p>
+        <h2>Herbal pills</h2>
+        <p>Unlock nature's goodness with our herbal pills—supporting well-being naturally for a balanced and vital lifestyle.</p>
         
       </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
