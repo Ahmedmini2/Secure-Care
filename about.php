@@ -30,7 +30,7 @@
 
         <div class="section-title">
           <h2>About Us</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Secure Care Medical Equipment L.L.C stands as a beacon of excellence in the healthcare industry. Born from a passion for improving lives, our mission is to redefine the standard of care for individuals with determination. Our values are the cornerstone of everything we do:</p>
         </div>
 
         <div class="row">
@@ -38,15 +38,18 @@
             <img src="assets/images/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            <h3>Our Mission and Values</h3>
+            <ul>
+              <li><i class="fa fa-check-circle"></i> Mission:</li>
+            </ul>
+            <p>
+            <h3>Enhancing Well-being:</h3> We are dedicated to enhancing the well-being of our customers. Through the provision of high-quality and innovative medical equipment, we aim to contribute to the overall health and happiness of individuals with determination.
+            </p>
+            <p>
+            <h3>Promoting Inclusivity:</h3> We believe in a world where inclusivity is at the forefront. Our mission is to create a community that recognizes and celebrates the unique needs and backgrounds of our diverse customer base. Inclusivity is not just a goal; it's a fundamental principle that guides our actions.
             </p>
             <ul>
-              <li><i class="fa fa-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="fa fa-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="fa fa-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="fa fa-check-circle"></i> Value:</li>
             </ul>
             <p>
               Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
