@@ -25,7 +25,7 @@
     <!-- Banner Area End -->
 
      <!-- ======= About Us Section ======= -->
-     <section id="about" class="about">
+     <section id="about" class="about section-padding3">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
