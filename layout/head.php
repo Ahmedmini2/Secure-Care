@@ -11,6 +11,8 @@
     <link rel="shortcut icon" href="assets/images/logo/favicon2.png" type="image/x-icon">
 
     <!-- CSS Files -->
+    <link href="assets/css/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="assets/css/animate.css/animate.min.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/animate-3.7.0.css">
     <link rel="stylesheet" href="assets/css/font-awesome-4.7.0.min.css">
     <link rel="stylesheet" href="assets/css/bootstrap-4.1.3.min.css">
