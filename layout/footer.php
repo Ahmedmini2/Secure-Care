@@ -5,12 +5,14 @@
                 <div class="row">
                     <div class="col-xl-2 col-lg-3">
                         <div class="single-widget-home mb-5 mb-lg-0">
-                            <h3 class="mb-4">top products</h3>
+                            <h3 class="mb-4">Services</h3>
                             <ul>
-                                <li class="mb-2"><a href="#">managed website</a></li>
-                                <li class="mb-2"><a href="#">managed reputation</a></li>
-                                <li class="mb-2"><a href="#">power tools</a></li>
-                                <li><a href="#">marketing service</a></li>
+                                <li class="mb-2"><a href="#">Trading Equipment for Individuals with Determination</a></li>
+                                <li class="mb-2"><a href="#">Trading Paper Products</a></li>
+                                <li class="mb-2"><a href="#">Trading Pharmaceutical Non-Drug Products</a></li>
+                                <li class="mb-2"><a href="#">Trading Cosmetics & Perfumes</a></li>
+                                <li class="mb-2"><a href="#">Trading Surgical and Medical Requisites</a></li>
+                            
                             </ul>
                         </div>
                     </div>
