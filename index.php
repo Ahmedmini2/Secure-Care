@@ -7,7 +7,7 @@
 <?php include('layout/header.php'); ?>
 
    
-<section id="hero" class="banner-area d-flex align-items-center">
+<section id="hero" class="banner-area d-flex align-items-center justify-content-center">
     <!-- Banner Area Starts -->
     <video autoplay muted loop id="myVideo">
             <source src="https://www.w3schools.com/howto/rain.mp4" type="video/mp4">
