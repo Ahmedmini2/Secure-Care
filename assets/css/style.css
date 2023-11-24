@@ -408,6 +408,13 @@ body.mobile-nav-active #mobile-nav-toggle{
 }
 .banner-area{
     padding:400px 0 350px;
+    background-image:url("../images/main2.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    position:relative
+}
+.banner-area2{
     
     background-repeat:no-repeat;
     background-position:center;
