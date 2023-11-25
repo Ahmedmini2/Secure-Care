@@ -3,7 +3,7 @@
         <div class="footer-widget">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-2 col-lg-3">
+                    <div class="col-xl-5 col-lg-3">
                         <div class="single-widget-home mb-5 mb-lg-0">
                             <h3 class="mb-4">SERVICES</h3>
                             <ul>
