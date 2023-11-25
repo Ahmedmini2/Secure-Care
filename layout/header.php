@@ -28,7 +28,7 @@
          <div class="container">
              <div class="row align-items-center justify-content-between d-flex">
                  <div id="logo">
-                     <a href="index.html"><img src="assets/images/logo/logo3.png" alt="" title="" /></a>
+                     <a href="/"><img src="assets/images/logo/logo3.png" alt="" title="" /></a>
                  </div>
                  <nav id="nav-menu-container">
                      <ul class="nav-menu">
@@ -50,7 +50,7 @@
                          <li><a class="lang" key="about" href="about">About Us</a></li>
 
 
-                         <li><a class="lang" key="contact" href="">Contact Us</a></li>
+                         <li><a class="lang" key="contact" href="contact">Contact Us</a></li>
 
                          <li class="menu-has-children"><a class="lang" key="blogs" href="">Blogs</a>
                              <ul>

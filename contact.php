@@ -29,13 +29,13 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Our doors are always open, virtually or otherwise. Whether you're a healthcare professional seeking specific supplies or an individual looking for support, reach out to us. Our customer service team is not just knowledgeable; they're empathetic and ready to guide you. Connect with us through social media to stay updated on the latest offerings and industry insights.</p>
         </div>
 
       </div>
 
       <div>
-        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d758.5387901609495!2d55.33288476035634!3d25.262547594374094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5cdccf33699d%3A0xc5f95631a018e2ea!2sAl%20Kalbani%20Business%20Center%20Building!5e0!3m2!1sen!2sae!4v1700847708668!5m2!1sen!2sae" frameborder="0" allowfullscreen></iframe>
       </div>
 
       <div class="container">
@@ -49,28 +49,28 @@
                 <div class="info-box">
                   <i class="bx bx-map"></i>
                   <h3>Our Address</h3>
-                  <p>A108 Adam Street, New York, NY 535022</p>
+                  <p>Al Kalbani Business - Al Khabaisi - Dubai</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4">
                   <i class="bx bx-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>info@example.com<br>contact@example.com</p>
+                  <p>info@securecare.ac<br>sales@securecare.ae</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4">
                   <i class="bx bx-phone-call"></i>
                   <h3>Call Us</h3>
-                  <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                  <p>(+966) – 04 450 8488</p>
                 </div>
               </div>
             </div>
 
           </div>
 
-          <div class="col-lg-6">
+          <div class="col-lg-6 pb-4">
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
@@ -86,12 +86,8 @@
               <div class="form-group mt-3">
                 <textarea class="form-control" name="message" rows="7" placeholder="Message" required=""></textarea>
               </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              
+              <div class="text-center"><button type="submit" name="submit" class="template-btn">Contact Us</button></div>
             </form>
           </div>
 

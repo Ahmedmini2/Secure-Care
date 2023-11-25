@@ -407,8 +407,16 @@ body.mobile-nav-active #mobile-nav-toggle{
     }
 }
 .banner-area{
-    padding:400px 0 350px;
+    padding:240px 0 350px;
     background-image:url("../images/main2.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    position:relative
+}
+.banner-area2{
+    padding:240px 0 350px;
+    background-image:url("../images/main.png");
     background-repeat:no-repeat;
     background-position:center;
     background-size:cover;
@@ -2766,16 +2774,16 @@ h6{
     width:100%
 }
 .section-padding{
-    padding:130px 0
+    padding:60px 0
 }
 .section-padding2{
-    padding-top:130px
+    padding-top:60px
 }
 .section-padding3{
-    padding-bottom:130px
+    padding-bottom:60px
 }
 .section-padding4{
-    padding:130px 0 200px
+    padding:60px 0 200px
 }
 .section-top{
     margin-bottom:80px
@@ -2825,3 +2833,56 @@ h6{
     box-shadow: 0 0 0 .2rem
 }
     
+
+.section-title {
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  
+  .section-title h2 {
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+  }
+  
+  .section-title h2::after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 50px;
+    height: 3px;
+    background: #3fbbc0;
+    bottom: 0;
+    left: calc(50% - 25px);
+  }
+  
+  .section-title p {
+    margin-bottom: 0;
+  }
+
+  .about .content h3 {
+    font-weight: 600;
+    font-size: 26px;
+  }
+  
+  .about .content ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .about .content ul li {
+    padding-bottom: 10px;
+  }
+  
+  .about .content ul i {
+    font-size: 20px;
+    padding-right: 4px;
+    color: #3fbbc0;
+  }
+  
+  .about .content p:last-child {
+    margin-bottom: 0;
+  }

@@ -66,7 +66,9 @@
             <div class="row">
                 <div class="col-lg-5 align-self-center">
                     <div class="welcome-img">
-                        <img src="assets/images/welcome2.jpg" alt="">
+                    <video autoplay muted loop id="myVideo" style="width: 550px;position: relative;z-index: 100;">
+                        <source src="assets/images/welcome.mp4" type="video/mp4" >
+                    </video>
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -169,8 +171,8 @@
             <div class="row">
                 <div class="col-lg-6 offset-lg-3">
                     <div class="section-top text-center">
-                        <h2>Patient are saying</h2>
-                        <p>Green above he cattle god saw day multiply under fill in the cattle fowl a all, living, tree word link available in the service for subdue fruit.</p>
+                        <h2>Our Valued Customers</h2>
+                        <p>At SecureCare Medical Equipment, our customers are at the heart of everything we do. We are immensely grateful for the trust you place in us, and it is our privilege to serve you. Each interaction, each purchase, and each smile shared is a testament to the strong bond we've built with our valued customers.</p>
                     </div>
                 </div>
             </div>
@@ -178,21 +180,21 @@
                 <div class="col-lg-5">
                     <div class="single-patient mb-4">
                         <img src="assets/images/patient1.png" alt="">
-                        <h3>daren jhonson</h3>
-                        <h5>hp specialist</h5>
-                        <p class="pt-3">Elementum libero hac leo integer. Risus hac road parturient feugiat. Litora cursus hendrerit bib elit Tempus inceptos posuere metus.</p>
+                        <h3>Mary J.</h3>
+                        <h5>Independent Living Advocate</h5>
+                        <p class="pt-3">I can't express enough gratitude for the transformative impact SecureCare Medical Equipment has had on my life. The wheelchair they recommended not only provided unparalleled comfort but also gave me a newfound sense of freedom. As an Independent Living Advocate, I appreciate the team's dedication to understanding my needs. SecureCare goes beyond providing equipment; they're in the business of changing lives!</p>
                     </div>
                     <div class="single-patient">
                         <img src="assets/images/patient2.png" alt="">
-                        <h3>black heiden</h3>
-                        <h5>hp specialist</h5>
-                        <p class="pt-3">Elementum libero hac leo integer. Risus hac road parturient feugiat. Litora cursus hendrerit bib elit Tempus inceptos posuere metus.</p>
+                        <h3>John D.</h3>
+                        <h5>Surgical Nurse</h5>
+                        <p class="pt-3">As a Surgical Nurse, I rely on quality products to deliver the best care to my patients. SecureCare Medical Equipment has become my go-to supplier for surgical requisites. The precision and reliability of their products are unmatched. The team's commitment to excellence and prompt service make them an invaluable partner in my practice. Highly recommended for anyone seeking top-notch medical equipment.</p>
                     </div>
                 </div>
                 <div class="col-lg-5 offset-lg-1 align-self-center">
                     <div class="appointment-form text-center mt-5 mt-lg-0">
-                        <h3 class="mb-5">appointment now</h3>
-                        <form action="#">
+                        <h3 class="mb-5">Contact Us </h3>
+                        <form action="#" method="POST">
                             <div class="form-group">
                                 <input type="text" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" required>
                             </div>
@@ -200,12 +202,12 @@
                                 <input type="email" placeholder="Your Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" required> 
                             </div>
                             <div class="form-group">
-                                <input type="text" id="datepicker" placeholder="Date" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date'" required>
+                                <input type="text"  placeholder="Subject" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Subject'" required>
                             </div>
                             <div class="form-group">
                                 <textarea name="message" cols="20" rows="7"  placeholder="Message" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Message'" required></textarea>
                             </div>
-                            <a href="#" class="template-btn">appointment now</a>
+                            <button type="submit" name="submit" class="template-btn">Contact Us</button>
                         </form>
                     </div>
                 </div>
@@ -215,7 +217,7 @@
     <!-- Patient Area Starts -->
 
     <!-- Specialist Area Starts -->
-    <section class="specialist-area section-padding">
+    <!-- <section class="specialist-area section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 offset-lg-3">
@@ -316,7 +318,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Specialist Area Starts -->
 
     <!-- Hotline Area Starts -->

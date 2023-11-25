@@ -24,78 +24,55 @@
     </section>
     <!-- Banner Area End -->
 
-    <!-- Welcome Area Starts -->
-    <section class="welcome-area section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5 align-self-center">
-                    <div class="welcome-img">
-                        <img src="assets/images/welcome.png" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-7">
-                    <div class="welcome-text mt-5 mt-lg-0">
-                        <h2>Welcome to our clinic</h2>
-                        <p class="pt-3">Subdue whales void god which living don't midst lesser yielding over lights whose. Cattle greater brought sixth fly den dry good tree isn't seed stars were.</p>
-                        <p>Subdue whales void god which living don't midst lesser yielding over lights whose. Cattle greater brought sixth fly den dry good tree isn't seed stars were the boring.</p>
-                        <a href="#" class="template-btn mt-3">learn more</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Welcome Area End -->
+     <!-- ======= About Us Section ======= -->
+     <section id="about" class="about section-padding3">
+      <div class="container" data-aos="fade-up">
 
-    <!-- Patient Area Starts -->
-    <section class="patient-area section-padding3">
+        <div class="section-title">
+          <h2>About Us</h2>
+          <p>Secure Care Medical Equipment L.L.C stands as a beacon of excellence in the healthcare industry. Born from a passion for improving lives, our mission is to redefine the standard of care for individuals with determination. Our values are the cornerstone of everything we do:</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6" data-aos="fade-right">
+            <img src="assets/images/about.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
+            <ul>
+              <li><i class="fa fa-check-circle"></i> Mission:</li>
+            </ul>
+            <p>
+            <h3>Enhancing Well-being:</h3> We are dedicated to enhancing the well-being of our customers. Through the provision of high-quality and innovative medical equipment, we aim to contribute to the overall health and happiness of individuals with determination.
+            </p>
+            <p>
+            <h3>Promoting Inclusivity:</h3> We believe in a world where inclusivity is at the forefront. Our mission is to create a community that recognizes and celebrates the unique needs and backgrounds of our diverse customer base. Inclusivity is not just a goal; it's a fundamental principle that guides our actions.
+            </p>
+            <ul>
+              <li><i class="fa fa-check-circle"></i> Value:</li>
+            </ul>
+            <p>
+            <h3>Customer-Centric Approach:</h3> The heart of our approach is centered around our customers. We prioritize the needs and experiences of each individual, ensuring that they feel heard, supported, and valued at every interaction.</p>
+            <p><h3>Continuous Improvement:</h3> We are committed to a culture of continuous improvement. Actively seeking feedback, we use it as a catalyst for growth and development, enabling us to evolve and meet the ever-changing needs of our customers.</p>
+            
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
+     <!-- Hotline Area Starts -->
+     <section class="hotline-area text-center section-padding">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 offset-lg-3">
-                    <div class="section-top text-center">
-                        <h2>Patient are saying</h2>
-                        <p>Green above he cattle god saw day multiply under fill in the cattle fowl a all, living, tree word link available in the service for subdue fruit.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-5">
-                    <div class="single-patient mb-4">
-                        <img src="assets/images/patient1.png" alt="">
-                        <h3>daren jhonson</h3>
-                        <h5>hp specialist</h5>
-                        <p class="pt-3">Elementum libero hac leo integer. Risus hac road parturient feugiat. Litora cursus hendrerit bib elit Tempus inceptos posuere metus.</p>
-                    </div>
-                    <div class="single-patient">
-                        <img src="assets/images/patient2.png" alt="">
-                        <h3>black heiden</h3>
-                        <h5>hp specialist</h5>
-                        <p class="pt-3">Elementum libero hac leo integer. Risus hac road parturient feugiat. Litora cursus hendrerit bib elit Tempus inceptos posuere metus.</p>
-                    </div>
-                </div>
-                <div class="col-lg-5 offset-lg-1 align-self-center">
-                    <div class="appointment-form text-center mt-5 mt-lg-0">
-                        <h3 class="mb-5">appointment now</h3>
-                        <form action="#">
-                            <div class="form-group">
-                                <input type="text" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" required>
-                            </div>
-                            <div class="form-group">
-                                <input type="email" placeholder="Your Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" required> 
-                            </div>
-                            <div class="form-group">
-                                <input type="text" id="datepicker" placeholder="Date" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date'" required>
-                            </div>
-                            <div class="form-group">
-                                <textarea name="message" cols="20" rows="7"  placeholder="Message" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Message'" required></textarea>
-                            </div>
-                            <a href="#" class="template-btn">appointment now</a>
-                        </form>
-                    </div>
+                <div class="col-lg-12">
+                    <h2>Securecare Contact</h2>
+                    <span>(+966) – 04 450 8488</span>
+                    <p class="pt-3">We provide 24/7 customer support. Please feel free to contact us <br>for inquery case.</p>
                 </div>
             </div>
         </div>
     </section>
-    <!-- Patient Area Starts -->
+    <!-- Hotline Area End -->
     
     <?php include('layout/footer.php'); ?>
 
