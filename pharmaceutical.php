@@ -25,10 +25,10 @@
     <!-- Banner Area End -->
 
     <!-- Welcome Area Starts -->
-    <section class="welcome-area section-padding">
+    <section class="welcome-area">
         <div class="container my-5">
             <div class="row">
-            <video autoplay muted loop id="myVideo" style="width: 824px;position: relative;z-index: 100;">
+            <video autoplay muted loop id="myVideo" style="width: 524px;position: relative;z-index: 100;">
                         <source src="assets/images/pharma.mp4" type="video/mp4" >
                     </video>
                 <div class="col-lg-6">
