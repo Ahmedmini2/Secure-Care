@@ -46,21 +46,38 @@
     <section class="welcome-area">
         <div class="container my-5">
             <div class="row">
-                <div class="col">
-                <img src="assets/images/cosmetics3.png" alt="Cosmetics" width="140px"></img>
-                <p> Lorem Ipsam </p>
+                <div class="col-4">
+                <img src="assets/images/pharma4.png" alt="Capsules" style="width: -webkit-fill-available;"></img>
+                <h2> Capsules </h2>
+                <p>Elevate your well-being effortlessly with our premium capsules. As your trusted supplier, we encapsulate the essence of natural goodness in every product. Discover the simplicity of a healthier you with our convenient, high-quality supplements.</p>
                 </div>
-                <div class="col">
-                <img src="assets/images/cosmetics3.png" alt="Cosmetics" width="140px"></img>
-                <p> Lorem Ipsam </p>
+                <div class="col-4">
+                <img src="assets/images/pharma5.png" alt="Gummy Tablets" style="width: -webkit-fill-available;"></img>
+                <h2> Gummy Tablets </h2>
+                <p>Indulge in wellness with our delectable Gummy Tablets. As your dedicated supplier, we've transformed essential nutrients into a delicious treat. Elevate your health journey joyfully with our delightful gummies, making well-being a tasty part of your daily routine. Discover the simplicity of a healthier you, supplied by us in every chew.</p>
                 </div>
-                <div class="col">
-                <img src="assets/images/cosmetics3.png" alt="Cosmetics" width="140px"></img>
-                <p> Lorem Ipsam </p>
+                <div class="col-4">
+                <img src="assets/images/pharma6.png" alt="Sports and Clubs" style="width: -webkit-fill-available;"></img>
+                <h2> Sports and Clubs </h2>
+                <p>Revitalize your sports and clubs experience with our premium drinks. As your go-to supplier, we offer a refreshing array of beverages to energize your active lifestyle. Elevate your game or celebration with our carefully curated selection, providing the perfect blend of taste and vitality. Fuel your passion with every sip, supplied by us for your enjoyment. Cheers to a vibrant and dynamic experience!</p>
                 </div>
             </div>
         </div>
     </section>
+
+     <!-- Hotline Area Starts -->
+     <section class="hotline-area text-center section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>Securecare Contact</h2>
+                    <span>(+971) – 04 450 8488</span>
+                    <p class="pt-3">We provide 24/7 customer support. Please feel free to contact us <br>for inquery case.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Hotline Area End -->
 
    
 

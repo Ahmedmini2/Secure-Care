@@ -63,7 +63,7 @@
                 <div class="info-box mt-4">
                   <i class="bx bx-phone-call"></i>
                   <h3>Call Us</h3>
-                  <p>(+966) – 04 450 8488</p>
+                  <p>(+971) – 04 450 8488</p>
                 </div>
               </div>
             </div>
