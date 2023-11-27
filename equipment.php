@@ -76,6 +76,7 @@
                         </div>
       </div>
     </div>
+    <hr class="featurette-divider">
     <div class="row featurette">
       <div class="col-md-7 order-md-2">
       <h2 class="featurette-heading">Medical crutch<span class="text-muted"></span>  </h2>
