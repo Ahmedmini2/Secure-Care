@@ -47,16 +47,16 @@
         <div class="container my-5">
             <div class="row">
                 <div class="col">
-                <img src="assets/images/cosmetics3.png" alt="Cosmetics" width="140px"></img>
-                <p> Lorem Ipsam </p>
+                <img src="assets/images/pharma2.jpg" alt="Capsules"></img>
+                <p> Capsules </p>
                 </div>
                 <div class="col">
-                <img src="assets/images/cosmetics3.png" alt="Cosmetics" width="140px"></img>
-                <p> Lorem Ipsam </p>
+                <img src="assets/images/department5.png" alt="Gummy Tablets"></img>
+                <p> Gummy Tablets </p>
                 </div>
                 <div class="col">
-                <img src="assets/images/cosmetics3.png" alt="Cosmetics" width="140px"></img>
-                <p> Lorem Ipsam </p>
+                <img src="assets/images/pharma3.jpg" alt="Sports and Clubs" ></img>
+                <p> Sports and Clubs </p>
                 </div>
             </div>
         </div>
