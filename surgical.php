@@ -27,7 +27,7 @@
     <!-- Welcome Area Starts -->
     <section class="welcome-area section-padding">
         <div class="container-fluid">
-        <div class="row">
+        <div class="row pb-2">
             <div class="col-lg-2 align-self-center">
                 <div class="welcome-img">
                     <img src="assets/images/welcome.png" alt="">
@@ -52,7 +52,7 @@
             </div>
         </div>
 
-        <div class="row">
+        <div class="row pb-2">
             <div class="col-lg-2 align-self-center">
                 <div class="welcome-img">
                     <img src="assets/images/welcome.png" alt="">
@@ -77,7 +77,7 @@
             </div>
         </div>
 
-        <div class="row">
+        <div class="row pb-2">
             <div class="col-lg-2 align-self-center">
                 <div class="welcome-img">
                     <img src="assets/images/welcome.png" alt="">
@@ -102,7 +102,7 @@
             </div>
         </div>
 
-        <div class="row">
+        <div class="row pb-2">
             <div class="col-lg-2 align-self-center">
                 <div class="welcome-img">
                     <img src="assets/images/welcome.png" alt="">
@@ -127,7 +127,7 @@
             </div>
         </div>
 
-        <div class="row">
+        <div class="row pb-2">
             <div class="col-lg-2 align-self-center">
                 <div class="welcome-img">
                     <img src="assets/images/welcome.png" alt="">
