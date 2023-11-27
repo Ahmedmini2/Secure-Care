@@ -24,78 +24,61 @@
     </section>
     <!-- Banner Area End -->
 
-    <!-- Welcome Area Starts -->
-    <section class="welcome-area section-padding">
+    <!--================Blog Categorie Area =================-->
+    <section class="blog_categorie_area">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5 align-self-center">
-                    <div class="welcome-img">
-                        <img src="assets/images/welcome.png" alt="">
+                <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+                    <div class="categories_post">
+                        <img src="assets/images/blog/cat-post/cat-post-3.jpg" alt="post">
+                        <div class="categories_details">
+                            <div class="categories_text">
+                                <a href="blog-details.html"><h5>Gauze</h5></a>
+                            </div>
+                        </div>
                     </div>
+                    <p>Experience superior wound care with our premium gauze products. As your trusted supplier, we offer high-quality sterile and non-sterile gauze options. Elevate healing with our soft and absorbent gauze, ensuring optimal comfort and recovery. Your well-being, our priority.</p>
                 </div>
-                <div class="col-lg-7">
-                    <div class="welcome-text mt-5 mt-lg-0">
-                        <h2>Welcome to our clinic</h2>
-                        <p class="pt-3">Subdue whales void god which living don't midst lesser yielding over lights whose. Cattle greater brought sixth fly den dry good tree isn't seed stars were.</p>
-                        <p>Subdue whales void god which living don't midst lesser yielding over lights whose. Cattle greater brought sixth fly den dry good tree isn't seed stars were the boring.</p>
-                        <a href="#" class="template-btn mt-3">learn more</a>
+                <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+                    <div class="categories_post">
+                        <img src="assets/images/blog/cat-post/cat-post-2.jpg" alt="post">
+                        <div class="categories_details">
+                            <div class="categories_text">
+                                <a href="blog-details.html"><h5>Plasters</h5></a>
+                            </div>
+                        </div>
                     </div>
+                    <p>Seal wounds with confidence using our premium plasters. As your trusted supplier, we offer a range of adhesive bandages for swift and effective wound coverage. Elevate first aid with our durable and skin-friendly plasters, ensuring comfort and protection. Your safety, our priority.</p>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="categories_post">
+                        <img src="assets/images/blog/cat-post/cat-post-1.jpg" alt="post">
+                        <div class="categories_details">
+                            <div class="categories_text">
+                                <a href="blog-details.html"><h5>Sutures</h5></a>
+                            </div>
+                        </div>
+                    </div>
+                    <p>Precision meets healing with our advanced sutures. As your dedicated supplier, we provide high-quality, sterile sutures designed for optimal wound closure. Elevate patient care with our reliable and efficient suturing solutions. Trust in every stitch for a seamless path to recovery.</p>
                 </div>
             </div>
         </div>
     </section>
-    <!-- Welcome Area End -->
+    <!--================Blog Categorie Area =================-->
 
-    <!-- Patient Area Starts -->
-    <section class="patient-area section-padding3">
+    <!-- Hotline Area Starts -->
+    <section class="hotline-area text-center section-padding">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 offset-lg-3">
-                    <div class="section-top text-center">
-                        <h2>Patient are saying</h2>
-                        <p>Green above he cattle god saw day multiply under fill in the cattle fowl a all, living, tree word link available in the service for subdue fruit.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-5">
-                    <div class="single-patient mb-4">
-                        <img src="assets/images/patient1.png" alt="">
-                        <h3>daren jhonson</h3>
-                        <h5>hp specialist</h5>
-                        <p class="pt-3">Elementum libero hac leo integer. Risus hac road parturient feugiat. Litora cursus hendrerit bib elit Tempus inceptos posuere metus.</p>
-                    </div>
-                    <div class="single-patient">
-                        <img src="assets/images/patient2.png" alt="">
-                        <h3>black heiden</h3>
-                        <h5>hp specialist</h5>
-                        <p class="pt-3">Elementum libero hac leo integer. Risus hac road parturient feugiat. Litora cursus hendrerit bib elit Tempus inceptos posuere metus.</p>
-                    </div>
-                </div>
-                <div class="col-lg-5 offset-lg-1 align-self-center">
-                    <div class="appointment-form text-center mt-5 mt-lg-0">
-                        <h3 class="mb-5">appointment now</h3>
-                        <form action="#">
-                            <div class="form-group">
-                                <input type="text" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" required>
-                            </div>
-                            <div class="form-group">
-                                <input type="email" placeholder="Your Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" required> 
-                            </div>
-                            <div class="form-group">
-                                <input type="text" id="datepicker" placeholder="Date" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date'" required>
-                            </div>
-                            <div class="form-group">
-                                <textarea name="message" cols="20" rows="7"  placeholder="Message" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Message'" required></textarea>
-                            </div>
-                            <a href="#" class="template-btn">appointment now</a>
-                        </form>
-                    </div>
+                <div class="col-lg-12">
+                    <h2>Securecare Contact</h2>
+                    <span>(+971) – 04 450 8488</span>
+                    <p class="pt-3">We provide 24/7 customer support. Please feel free to contact us <br>for inquery case.</p>
                 </div>
             </div>
         </div>
     </section>
-    <!-- Patient Area Starts -->
+    <!-- Hotline Area End -->
     
     <?php include('layout/footer.php'); ?>
 
