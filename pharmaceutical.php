@@ -16,8 +16,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Pharmaceutical</h1>
-                    <a href="index.html">Home</a> <span>|</span> <a href="about.html">About Us</a>
+                    <h1>Pharmaceutical Non-Drugs Products</h1>
+                    <a href="index">Home</a> <span>|</span> <a href="pharmaceutical">Pharmaceutical</a>
                 </div>
             </div>
         </div>
@@ -26,19 +26,16 @@
 
     <!-- Welcome Area Starts -->
     <section class="welcome-area section-padding">
-        <div class="container">
+        <div class="container my-5">
             <div class="row">
-                <div class="col-lg-5 align-self-center">
-                    <div class="welcome-img">
-                        <img src="assets/images/welcome.png" alt="">
-                    </div>
+                <div class="col-lg-6">
+                    <img class="w-100 shadow" src="https://via.placeholder.com/824x552" />
                 </div>
-                <div class="col-lg-7">
-                    <div class="welcome-text mt-5 mt-lg-0">
-                        <h2>Welcome to our clinic</h2>
-                        <p class="pt-3">Subdue whales void god which living don't midst lesser yielding over lights whose. Cattle greater brought sixth fly den dry good tree isn't seed stars were.</p>
-                        <p>Subdue whales void god which living don't midst lesser yielding over lights whose. Cattle greater brought sixth fly den dry good tree isn't seed stars were the boring.</p>
-                        <a href="#" class="template-btn mt-3">learn more</a>
+                <div class="col-lg-6">
+                    <div class="p-5 mt-4">
+                        <h1 class="display-4">H1 Heading</h1>
+                        <p class="lead">Crow's nest schooner ho scallywag hail-shot gabion salmagundi. Doubloon careen code of conduct lugsail hulk ye long clothes. </p>
+                        <a href="#" class="btn btn-outline-dark">Read More</a>
                     </div>
                 </div>
             </div>

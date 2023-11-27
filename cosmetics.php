@@ -17,7 +17,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h1>Cosmetics</h1>
-                    <a href="index.html">Home</a> <span>|</span> <a href="about.html">Cosmetics</a>
+                    <a href="index">Home</a> <span>|</span> <a href="cosmetics">Cosmetics</a>
                 </div>
             </div>
         </div>
