@@ -67,7 +67,7 @@
 
     <div class="row featurette">
       <div class="col-md-7">
-        <h2 class="featurette-heading">Revitalize your skin with our rejuvenating <span class="text-muted">face masks</span>. Crafted with care, our masks offer a pampering experience, leaving your complexion refreshed, radiant, and ready to face the day. Uncover the secret to a vibrant, glowing complexion. </h2>
+        <h2 class="featurette-heading">Revitalize your skin with our rejuvenating <span class="text-muted">Face Masks</span>. Crafted with care, our masks offer a pampering experience, leaving your complexion refreshed, radiant, and ready to face the day. Uncover the secret to a vibrant, glowing complexion. </h2>
         <p class="lead">Indulge in the luxury of self-care with our exquisite range of face masks. From hydrating to clarifying, each mask is meticulously formulated to address specific skin needs. Elevate your skincare routine and treat yourself to a spa-like experience at home. Because your skin deserves the best.</p>
       </div>
       <div class="col-md-5">
@@ -82,8 +82,8 @@
 
     <div class="row featurette">
       <div class="col-md-7 order-md-2">
-        <h2 class="featurette-heading">Oh yeah, it’s that good. <span class="text-muted">See for yourself.</span></h2>
-        <p class="lead">Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
+      <h2 class="featurette-heading">Enhance your<span class="text-muted"> Beauty.</span> effortlessly with our premium products. From skincare to cosmetics, each item is designed to bring out your natural glow. Explore the simplicity of beauty, reimagined. </h2>
+        <p class="lead">Dive into a world of beauty tailored to you. Our curated collection features skincare and cosmetics that effortlessly elevate your routine. Uncover a new level of confidence in every application, embracing the simplicity of beauty that is uniquely yours.</p>
       </div>
       <div class="col-md-5 order-md-1">
       <div class="news-img">
@@ -96,12 +96,13 @@
 
     <div class="row featurette">
       <div class="col-md-7">
-        <h2 class="featurette-heading">Enhance your<span class="text-muted"> Beauty.</span> effortlessly with our premium products. From skincare to cosmetics, each item is designed to bring out your natural glow. Explore the simplicity of beauty, reimagined. </h2>
-        <p class="lead">Dive into a world of beauty tailored to you. Our curated collection features skincare and cosmetics that effortlessly elevate your routine. Uncover a new level of confidence in every application, embracing the simplicity of beauty that is uniquely yours.</p>
+        <h2 class="featurette-heading">Revitalize your skincare routine with our cutting-edge <span class="text-muted"> Facial Tools</span>. Elevate your self-care game effortlessly for radiant, glowing skin at home. Discover spa-quality results with every use.</h2>
+        <p class="lead">Step into the future of skincare with our advanced facial tools. Whether it's a high-tech device or a rejuvenating tool, each one is your ticket to a professional-grade spa experience at home. Elevate your self-care game effortlessly and unlock a new level of radiant, revitalized skin. Your daily dose of luxury, tailored just for you..</p>
       </div>
       <div class="col-md-5">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"></rect><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
-
+      <div class="news-img">
+                            <img src="assets/images/cosmetics5.jpg" alt="" class="img-fluid">
+                        </div>
       </div>
     </div>
 
