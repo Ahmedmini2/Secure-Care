@@ -11,8 +11,8 @@
 <?php include('layout/header.php'); ?>
 <!-- Header Area End -->
 
-    <!-- Banner Area Starts -->
-    <section class="banner-area2 other-page">
+    <!-- Banner Area Starts 5 -->
+    <section class="banner-area5 other-page">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
