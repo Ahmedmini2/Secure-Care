@@ -26,7 +26,7 @@
 
     <!-- Welcome Area Starts -->
     <section class="welcome-area section-padding">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-2 align-self-center">
                     <div class="welcome-img">
