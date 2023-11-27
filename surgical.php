@@ -30,7 +30,7 @@
         <div class="row pb-2">
             <div class="col-lg-2 align-self-center">
                 <div class="welcome-img">
-                    <img src="assets/images/welcome.png" alt="">
+                    <img src="assets/images/surgery1.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-4">
@@ -41,7 +41,7 @@
             </div>
             <div class="col-lg-2 align-self-center">
                 <div class="welcome-img">
-                    <img src="assets/images/welcome.png" alt="">
+                    <img src="assets/images/surgery2.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-4">
@@ -55,7 +55,7 @@
         <div class="row pb-2">
             <div class="col-lg-2 align-self-center">
                 <div class="welcome-img">
-                    <img src="assets/images/welcome.png" alt="">
+                    <img src="assets/images/surgery3.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-4">
@@ -66,7 +66,7 @@
             </div>
             <div class="col-lg-2 align-self-center">
                 <div class="welcome-img">
-                    <img src="assets/images/welcome.png" alt="">
+                    <img src="assets/images/surgery4.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-4">
@@ -80,32 +80,7 @@
         <div class="row pb-2">
             <div class="col-lg-2 align-self-center">
                 <div class="welcome-img">
-                    <img src="assets/images/welcome.png" alt="">
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="welcome-text mt-5 mt-lg-0">
-                    <h2>Patient Monitoring Devices</h2>
-                    <p>Monitor patient health seamlessly with our range of devices, from pulse oximeters and ECG machines to blood glucose monitors and holter monitors. Precision in patient care.</p>
-                </div>
-            </div>
-            <div class="col-lg-2 align-self-center">
-                <div class="welcome-img">
-                    <img src="assets/images/welcome.png" alt="">
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="welcome-text mt-5 mt-lg-0">
-                    <h2>Orthopedic Supplies</h2>
-                    <p>Support orthopedic wellness with our collection, featuring braces, orthopedic implants, casting materials, and prosthetics/orthotics. Comprehensive solutions for musculoskeletal health.</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="row pb-2">
-            <div class="col-lg-2 align-self-center">
-                <div class="welcome-img">
-                    <img src="assets/images/welcome.png" alt="">
+                    <img src="assets/images/surgery5.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-4">
@@ -116,7 +91,7 @@
             </div>
             <div class="col-lg-2 align-self-center">
                 <div class="welcome-img">
-                    <img src="assets/images/welcome.png" alt="">
+                    <img src="assets/images/surgery6.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-4">
@@ -127,35 +102,26 @@
             </div>
         </div>
 
-        <div class="row pb-2">
-            <div class="col-lg-2 align-self-center">
-                <div class="welcome-img">
-                    <img src="assets/images/welcome.png" alt="">
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="welcome-text mt-5 mt-lg-0">
-                    <h2>Hospital Furniture and Accessories</h2>
-                    <p>Create a conducive healthcare environment with our hospital furniture, including examination tables, hospital beds, IV stands, and medical carts. Comfort and efficiency in healthcare spaces.</p>
-                </div>
-            </div>
-            <div class="col-lg-2 align-self-center">
-                <div class="welcome-img">
-                    <img src="assets/images/welcome.png" alt="">
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="welcome-text mt-5 mt-lg-0">
-                    <h2>Medical Apparel</h2>
-                    <p>Equip healthcare professionals with quality apparel, including scrubs, lab coats, surgical gowns, and protective eyewear. Style meets functionality in medical wear.</p>
-                </div>
-            </div>
-        </div>
+        
 
         </div>
     </section>
     <!-- Welcome Area End -->
 
+
+    <!-- Hotline Area Starts -->
+    <section class="hotline-area text-center section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>Securecare Contact</h2>
+                    <span>(+971) – 04 450 8488</span>
+                    <p class="pt-3">We provide 24/7 customer support. Please feel free to contact us <br>for inquery case.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Hotline Area End -->
    
     
    
