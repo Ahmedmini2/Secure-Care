@@ -47,15 +47,15 @@
         <div class="container my-5">
             <div class="row">
                 <div class="col">
-                <img src="assets/images/pharma2.jpg" alt="Capsules"></img>
+                <img src="assets/images/pharma4.png" alt="Capsules"></img>
                 <p> Capsules </p>
                 </div>
                 <div class="col">
-                <img src="assets/images/department5.png" alt="Gummy Tablets"></img>
+                <img src="assets/images/pharma5.png" alt="Gummy Tablets"></img>
                 <p> Gummy Tablets </p>
                 </div>
                 <div class="col">
-                <img src="assets/images/pharma3.jpg" alt="Sports and Clubs" ></img>
+                <img src="assets/images/pharma6.png" alt="Sports and Clubs" ></img>
                 <p> Sports and Clubs </p>
                 </div>
             </div>
