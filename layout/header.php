@@ -51,11 +51,8 @@
 
                          <li><a class="lang" key="contact" href="contact">Contact Us</a></li>
 
-                         <li class="menu-has-children"><a class="lang" key="blogs" href="">Blogs</a>
-                             <ul>
-                                 <li><a href="blog-home">blog home</a></li>
-                                 <li><a href="blog-details">blog details</a></li>
-                             </ul>
+                         <li><a class="lang" key="blogs" href="blogs">Blogs</a>
+                            
                          </li>
                          <li>
                          <button id="ar" class="translate2  btn btn-secondary">عربي</button>
