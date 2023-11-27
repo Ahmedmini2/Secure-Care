@@ -8,16 +8,15 @@
                  <div class="col-lg-9 d-md-flex">
                      <h6 class="mr-3"><span class="mr-2"><i class="fa fa-mobile"></i></span> call us now! +966 04 450 8488</h6>
                      <h6 class="mr-3 noncap"><span class="mr-2"><i class="fa fa-envelope-o"></i></span> info@securecare.ae</h6>
-                     <a href="#"><h6><span class="mr-2"><i class="fa fa-map-marker"></i></span> Find our Location</h6><a href="#">
+                     <a href="https://www.google.com/maps/place/Al+Kalbani+Business+Center+Building/@25.2635152,55.3323692,18.54z/data=!4m6!3m5!1s0x3e5f5cdccf33699d:0xc5f95631a018e2ea!8m2!3d25.263246!4d55.3326739!16s%2Fg%2F11c76ll10f?entry=ttu"><h6><span class="mr-2"><i class="fa fa-map-marker"></i></span> Find our Location</h6><a href="#">
                  </div>
                  <div class="col-lg-3">
                      <div class="social-links">
                          <ul>
-                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                             <li><a href="#"><i class="fa fa-vimeo"></i></a></li>
+                             <li><a href="https://www.facebook.com/profile.php?id=61553735053897"><i class="fa fa-facebook"></i></a></li>
+                             <li><a href="https://twitter.com/SECURECARE_AE"><i class="fa fa-twitter"></i></a></li>
+                             <li><a href="https://www.instagram.com/securecare_ae/"><i class="fa fa-instagram"></i></a></li>
+                             
                          </ul>
                      </div>
                  </div>

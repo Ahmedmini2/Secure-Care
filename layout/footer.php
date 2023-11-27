@@ -54,10 +54,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                     <div class="col-lg-4 col-md-6">
                         <div class="social-icons">
                             <ul>
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                                <li><a href="https://www.facebook.com/profile.php?id=61553735053897"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://twitter.com/SECURECARE_AE"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.instagram.com/securecare_ae/"><i class="fa fa-instagram"></i></a></li>
+                                
                             </ul>
                         </div>
                     </div>
