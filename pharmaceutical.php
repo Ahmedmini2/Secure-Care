@@ -46,16 +46,16 @@
     <section class="welcome-area">
         <div class="container my-5">
             <div class="row">
-                <div class="col">
-                <img src="assets/images/pharma4.png" alt="Capsules"></img>
+                <div class="col-4">
+                <img src="assets/images/pharma4.png" alt="Capsules" style="width: -webkit-fill-available;"></img>
                 <p> Capsules </p>
                 </div>
-                <div class="col">
-                <img src="assets/images/pharma5.png" alt="Gummy Tablets"></img>
+                <div class="co-4">
+                <img src="assets/images/pharma5.png" alt="Gummy Tablets" style="width: -webkit-fill-available;"></img>
                 <p> Gummy Tablets </p>
                 </div>
-                <div class="col">
-                <img src="assets/images/pharma6.png" alt="Sports and Clubs" ></img>
+                <div class="col-4">
+                <img src="assets/images/pharma6.png" alt="Sports and Clubs" style="width: -webkit-fill-available;"></img>
                 <p> Sports and Clubs </p>
                 </div>
             </div>
