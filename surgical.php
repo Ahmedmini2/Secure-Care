@@ -12,12 +12,12 @@
 <!-- Header Area End -->
 
     <!-- Banner Area Starts -->
-    <section class="banner-area other-page">
+    <section class="banner-area4 other-page">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <h1>Surgical</h1>
-                    <a href="index.html">Home</a> <span>|</span> <a href="about.html">About Us</a>
+                    <a href="index">Home</a> <span>|</span> <a href="Surgical">Surgical</a>
                 </div>
             </div>
         </div>
