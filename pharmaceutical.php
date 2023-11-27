@@ -43,6 +43,25 @@
     </section>
     <!-- Welcome Area End -->
 
+    <section class="welcome-area">
+        <div class="container my-5">
+            <div class="row">
+                <div class="col">
+                <img src="assets/images/cosmetics3.png" alt="Cosmetics" width="140px"></img>
+                <p> Lorem Ipsam </p>
+                </div>
+                <div class="col">
+                <img src="assets/images/cosmetics3.png" alt="Cosmetics" width="140px"></img>
+                <p> Lorem Ipsam </p>
+                </div>
+                <div class="col">
+                <img src="assets/images/cosmetics3.png" alt="Cosmetics" width="140px"></img>
+                <p> Lorem Ipsam </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
    
 
 
