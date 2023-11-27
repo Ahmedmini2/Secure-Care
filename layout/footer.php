@@ -7,11 +7,11 @@
                         <div class="single-widget-home mb-5 mb-lg-0">
                             <h3 class="mb-4">SERVICES</h3>
                             <ul>
-                                <li class="mb-2"><a href="#">Trading Equipment for Individuals with Determination</a></li>
-                                <li class="mb-2"><a href="#">Trading Paper Products</a></li>
-                                <li class="mb-2"><a href="#">Trading Pharmaceutical Non-Drug Products</a></li>
-                                <li class="mb-2"><a href="#">Trading Cosmetics & Perfumes</a></li>
-                                <li class="mb-2"><a href="#">Trading Surgical and Medical Requisites</a></li>
+                                <li class="mb-2"><a href="equipment">Trading Equipment for Individuals with Determination</a></li>
+                                <li class="mb-2"><a href="paper_products">Trading Paper Products</a></li>
+                                <li class="mb-2"><a href="pharmaceutical">Trading Pharmaceutical Non-Drug Products</a></li>
+                                <li class="mb-2"><a href="cosmetics">Trading Cosmetics & Perfumes</a></li>
+                                <li class="mb-2"><a href="surgical">Trading Surgical and Medical Requisites</a></li>
                             
                             </ul>
                         </div>
@@ -20,10 +20,10 @@
                         <div class="single-widget-home mb-5 mb-lg-0">
                             <h3 class="mb-4">HOT LINKS</h3>
                             <ul>
-                                <li class="mb-2"><a href="#">Terms and Conditions </a></li>
-                                <li class="mb-2"><a href="#">Privacy Policy </a></li>
-                                <li class="mb-2"><a href="#">Shipment Policy</a></li>
-                                <li class="mb-2"><a href="#">Blogs</a></li>                            
+                                <li class="mb-2"><a href="terms-and-conditions">Terms and Conditions </a></li>
+                                <li class="mb-2"><a href="privacy-policy">Privacy Policy </a></li>
+                                <li class="mb-2"><a href="shipment-policy">Shipment Policy</a></li>
+                                <li class="mb-2"><a href="blogs">Blogs</a></li>                            
                             </ul>
                         </div>
                     </div>
