@@ -115,6 +115,20 @@
 
   
 </main>
+
+ <!-- Hotline Area Starts -->
+ <section class="hotline-area text-center section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>Securecare Contact</h2>
+                    <span>(+971) – 04 450 8488</span>
+                    <p class="pt-3">We provide 24/7 customer support. Please feel free to contact us <br>for inquery case.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Hotline Area End -->
    
     
     <?php include('layout/footer.php'); ?>
