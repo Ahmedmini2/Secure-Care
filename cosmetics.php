@@ -54,8 +54,8 @@
       <div class="col-lg-4 d-flex flex-column justify-content-center align-items-center">
       <img src="assets/images/cosmetics3.png" alt="Cosmetics" width="140px"></img>
 
-        <h2>Herbal pills</h2>
-        <p>Unlock nature's goodness with our herbal pills—supporting well-being naturally for a balanced and vital lifestyle.</p>
+        <h2>Healthy products</h2>
+        <p>Unlock nature's goodness with our healthy products—supporting well-being naturally for a balanced and vital lifestyle.</p>
         
       </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
@@ -67,8 +67,8 @@
 
     <div class="row featurette">
       <div class="col-md-7">
-        <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It’ll blow your mind.</span></h2>
-        <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+        <h2 class="featurette-heading">Revitalize your skin with our rejuvenating <span class="text-muted">face masks</span>. Crafted with care, our masks offer a pampering experience, leaving your complexion refreshed, radiant, and ready to face the day. Uncover the secret to a vibrant, glowing complexion. </h2>
+        <p class="lead">Indulge in the luxury of self-care with our exquisite range of face masks. From hydrating to clarifying, each mask is meticulously formulated to address specific skin needs. Elevate your skincare routine and treat yourself to a spa-like experience at home. Because your skin deserves the best.</p>
       </div>
       <div class="col-md-5">
       <video autoplay muted loop id="myVideo" style="width: 500px;position: relative;z-index: 100;">
