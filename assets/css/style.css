@@ -45,6 +45,9 @@ h6{
     text-transform:uppercase;
     font-weight:500
 }
+.noncap{
+    text-transform:lowercase !important;
+}
 ul{
     margin:0;
     padding:0;
@@ -441,6 +444,14 @@ body.mobile-nav-active #mobile-nav-toggle{
 .banner-area5{
     padding:240px 0 350px;
     background-image:url("../images/main5.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    position:relative
+}
+.banner-area5{
+    padding:240px 0 350px;
+    background-image:url("../images/main6.png");
     background-repeat:no-repeat;
     background-position:center;
     background-size:cover;

@@ -7,7 +7,7 @@
              <div class="row">
                  <div class="col-lg-9 d-md-flex">
                      <h6 class="mr-3"><span class="mr-2"><i class="fa fa-mobile"></i></span> call us now! +966 04 450 8488</h6>
-                     <h6 class="mr-3"><span class="mr-2"><i class="fa fa-envelope-o"></i></span> info@securecare.ae</h6>
+                     <h6 class="mr-3 noncap"><span class="mr-2"><i class="fa fa-envelope-o"></i></span> info@securecare.ae</h6>
                      <a href="#"><h6><span class="mr-2"><i class="fa fa-map-marker"></i></span> Find our Location</h6><a href="#">
                  </div>
                  <div class="col-lg-3">
