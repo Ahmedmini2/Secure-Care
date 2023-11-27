@@ -12,11 +12,11 @@
 <!-- Header Area End -->
 
     <!-- Banner Area Starts 5 -->
-    <section class="banner-area5 other-page">
+    <section class="banner-area5 other-page ">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Equipment</h1>
+                    <h1 class="text-white">Equipment</h1>
                     <a href="index">Home</a> <span>|</span> <a href="equipment.php">Equipment</a>
                 </div>
             </div>
@@ -76,6 +76,7 @@
                         </div>
       </div>
     </div>
+    <hr class="featurette-divider">
     <div class="row featurette">
       <div class="col-md-7 order-md-2">
       <h2 class="featurette-heading">Medical crutch<span class="text-muted"></span>  </h2>
