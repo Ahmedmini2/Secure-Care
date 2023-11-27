@@ -12,93 +12,94 @@
 <!-- Header Area End -->
 
     <!-- Banner Area Starts -->
-    <section class="banner-area other-page">
+    <section class="banner-area2 other-page">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <h1>Equipment</h1>
-                    <a href="index.html">Home</a> <span>|</span> <a href="about.html">About Us</a>
+                    <a href="index">Home</a> <span>|</span> <a href="equipment.php">Equipment</a>
                 </div>
             </div>
         </div>
     </section>
     <!-- Banner Area End -->
 
-    <!-- Welcome Area Starts -->
-    <section class="welcome-area section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5 align-self-center">
-                    <div class="welcome-img">
-                        <img src="assets/images/welcome.png" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-7">
-                    <div class="welcome-text mt-5 mt-lg-0">
-                        <h2>Welcome to our clinic</h2>
-                        <p class="pt-3">Subdue whales void god which living don't midst lesser yielding over lights whose. Cattle greater brought sixth fly den dry good tree isn't seed stars were.</p>
-                        <p>Subdue whales void god which living don't midst lesser yielding over lights whose. Cattle greater brought sixth fly den dry good tree isn't seed stars were the boring.</p>
-                        <a href="#" class="template-btn mt-3">learn more</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Welcome Area End -->
+    <main>
 
-    <!-- Patient Area Starts -->
-    <section class="patient-area section-padding3">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 offset-lg-3">
-                    <div class="section-top text-center">
-                        <h2>Patient are saying</h2>
-                        <p>Green above he cattle god saw day multiply under fill in the cattle fowl a all, living, tree word link available in the service for subdue fruit.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-5">
-                    <div class="single-patient mb-4">
-                        <img src="assets/images/patient1.png" alt="">
-                        <h3>daren jhonson</h3>
-                        <h5>hp specialist</h5>
-                        <p class="pt-3">Elementum libero hac leo integer. Risus hac road parturient feugiat. Litora cursus hendrerit bib elit Tempus inceptos posuere metus.</p>
-                    </div>
-                    <div class="single-patient">
-                        <img src="assets/images/patient2.png" alt="">
-                        <h3>black heiden</h3>
-                        <h5>hp specialist</h5>
-                        <p class="pt-3">Elementum libero hac leo integer. Risus hac road parturient feugiat. Litora cursus hendrerit bib elit Tempus inceptos posuere metus.</p>
-                    </div>
-                </div>
-                <div class="col-lg-5 offset-lg-1 align-self-center">
-                    <div class="appointment-form text-center mt-5 mt-lg-0">
-                        <h3 class="mb-5">appointment now</h3>
-                        <form action="#">
-                            <div class="form-group">
-                                <input type="text" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" required>
-                            </div>
-                            <div class="form-group">
-                                <input type="email" placeholder="Your Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" required> 
-                            </div>
-                            <div class="form-group">
-                                <input type="text" id="datepicker" placeholder="Date" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date'" required>
-                            </div>
-                            <div class="form-group">
-                                <textarea name="message" cols="20" rows="7"  placeholder="Message" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Message'" required></textarea>
-                            </div>
-                            <a href="#" class="template-btn">appointment now</a>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Patient Area Starts -->
+
+
+
+  
+    
+
+
+    <!-- START THE FEATURETTES -->
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+      <h2 class="featurette-heading">Wheelchair<span class="text-muted"> </span> </h2>
+        <p class="lead">Experience freedom and mobility with our premium wheelchairs. As your dedicated supplier, we provide comfort and reliability in every roll. Elevate your independence with our carefully crafted wheelchairs, designed to enhance your daily life seamlessly. Move with confidence, supplied by us for your well-being.</p>
+      </div>
+      <div class="col-md-5 order-md-1">
+      <div class="news-img">
+                            <img src="assets/images/equipment2.jpg" alt="" class="img-fluid">
+                        </div>
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+      <h2 class="featurette-heading">Artificial arm<span class="text-muted"></span></h2>
+        <p class="lead">Embrace newfound possibilities with our advanced artificial arms. As your trusted supplier, we offer cutting-edge prosthetics that seamlessly integrate with your lifestyle. Elevate your mobility and regain independence with our precision-engineered artificial arms, designed to empower you on your journey. Experience life to the fullest, supplied by us for your unique needs.</p>
+      </div>
+      <div class="col-md-5 order-md-1">
+      <div class="news-img">
+                            <img src="assets/images/equipment1.jpg" alt="" class="img-fluid">
+                        </div>
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+      <h2 class="featurette-heading">Artificial foot<span class="text-muted"></span>  </h2>
+        <p class="lead">Step into a life of mobility and confidence with our state-of-the-art artificial feet. As your dedicated supplier, we provide prosthetics designed for seamless integration and optimal comfort. Elevate your stride and reclaim independence with our precision-engineered artificial feet. Walk with assurance, supplied by us for your journey to a more fulfilling life.</p>
+      </div>
+      <div class="col-md-5 order-md-1">
+      <div class="news-img">
+                            <img src="assets/images/equipment3.jpg" alt="" class="img-fluid">
+                        </div>
+      </div>
+    </div>
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+      <h2 class="featurette-heading">Medical crutch<span class="text-muted"></span>  </h2>
+        <p class="lead">Move with stability and comfort using our premium medical crutches. As your trusted supplier, we offer reliable support designed to enhance your mobility. Elevate your recovery journey with our carefully crafted crutches, providing the stability you need. Walk with confidence, supplied by us for your well-being.</p>
+      </div>
+      <div class="col-md-5 order-md-1">
+      <div class="news-img">
+                            <img src="assets/images/equipment4.jpg" alt="" class="img-fluid">
+                        </div>
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <!-- /END THE FEATURETTES -->
+
+  </div><!-- /.container -->
+
+
+  
+</main>
+   
     
     <?php include('layout/footer.php'); ?>
-
 
 </body>
 </html>
