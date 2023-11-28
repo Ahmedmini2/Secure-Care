@@ -72,7 +72,7 @@
       </div>
       <div class="col-md-5 order-md-1">
       <div class="news-img">
-                            <img src="assets/images/equipment3.jpg" alt="" class="img-fluid">
+                            <img src="assets/images/equipment3.jpg" alt=" " class="img-fluid">
                         </div>
       </div>
     </div>
