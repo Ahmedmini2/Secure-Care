@@ -7,11 +7,11 @@
                         <div class="single-widget-home mb-5 mb-lg-0">
                             <h3 class="mb-4">SERVICES</h3>
                             <ul>
-                                <li class="mb-2"><a href="#">Trading Equipment for Individuals with Determination</a></li>
-                                <li class="mb-2"><a href="#">Trading Paper Products</a></li>
-                                <li class="mb-2"><a href="#">Trading Pharmaceutical Non-Drug Products</a></li>
-                                <li class="mb-2"><a href="#">Trading Cosmetics & Perfumes</a></li>
-                                <li class="mb-2"><a href="#">Trading Surgical and Medical Requisites</a></li>
+                                <li class="mb-2"><a href="equipment">Trading Equipment for Individuals with Determination</a></li>
+                                <li class="mb-2"><a href="paper_products">Trading Paper Products</a></li>
+                                <li class="mb-2"><a href="pharmaceutical">Trading Pharmaceutical Non-Drug Products</a></li>
+                                <li class="mb-2"><a href="cosmetics">Trading Cosmetics & Perfumes</a></li>
+                                <li class="mb-2"><a href="surgical">Trading Surgical and Medical Requisites</a></li>
                             
                             </ul>
                         </div>
@@ -20,16 +20,24 @@
                         <div class="single-widget-home mb-5 mb-lg-0">
                             <h3 class="mb-4">HOT LINKS</h3>
                             <ul>
-                                <li class="mb-2"><a href="#">Terms and Conditions </a></li>
-                                <li class="mb-2"><a href="#">Privacy Policy </a></li>
-                                <li class="mb-2"><a href="#">Shipment Policy</a></li>
-                                <li class="mb-2"><a href="#">Blogs</a></li>                            
+                                <li class="mb-2"><a href="terms-and-conditions">Terms and Conditions </a></li>
+                                <li class="mb-2"><a href="privacy-policy">Privacy Policy </a></li>
+                                <li class="mb-2"><a href="shipment-policy">Shipment Policy</a></li>
+                                <li class="mb-2"><a href="blogs">Blogs</a></li>                            
                             </ul>
                         </div>
                     </div>
-                    <div class="col-xl-3 offset-xl-1 col-lg-3">
-                     
+                    <div class="col-xl-5  col-lg-6">
+                        <div class="single-widget-home mb-5 mb-lg-0">
+                            <h3 class="mb-4">Newsletter</h3>
+                            <p class="mb-4">You can trust us. we only send promo offers, not a single.</p>  
+                            <form action="#">
+                                <input type="email" placeholder="Your email here" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your email here'" required>
+                                <button type="submit" class="template-btn">subscribe now</button>
+                            </form>
+                        </div>
                     </div>
+                   
                 </div>
             </div>
         </div>
@@ -46,10 +54,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                     <div class="col-lg-4 col-md-6">
                         <div class="social-icons">
                             <ul>
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                                <li><a href="https://www.facebook.com/profile.php?id=61553735053897"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://twitter.com/SECURECARE_AE"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.instagram.com/securecare_ae/"><i class="fa fa-instagram"></i></a></li>
+                                
                             </ul>
                         </div>
                     </div>

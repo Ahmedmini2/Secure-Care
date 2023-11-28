@@ -3,6 +3,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="we believe in more than just providing medical equipment; we're dedicated to transforming lives." />
+    <meta name="image" content="https://securecare.ae/assets/images/logo/favicon2.png">
 
     <!-- Page Title -->
     <title>Securecare</title>

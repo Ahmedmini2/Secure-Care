@@ -34,6 +34,8 @@
 
 
     <!-- START THE FEATURETTES -->
+    <div class="container marketing">
+        <hr class="featurette-divider">
 
     <hr class="featurette-divider">
 
@@ -95,7 +97,63 @@
 
   </div><!-- /.container -->
 
+        <div class="row featurette">
+        <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">Artificial arm<span class="text-muted"></span></h2>
+            <p class="lead">Embrace newfound possibilities with our advanced artificial arms. As your trusted supplier, we offer cutting-edge prosthetics that seamlessly integrate with your lifestyle. Elevate your mobility and regain independence with our precision-engineered artificial arms, designed to empower you on your journey. Experience life to the fullest, supplied by us for your unique needs.</p>
+        </div>
+        <div class="col-md-5 order-md-1">
+        <div class="news-img">
+                                <img src="assets/images/equipment1.jpg" alt="" class="img-fluid">
+                            </div>
+        </div>
+        </div>
 
+        <hr class="featurette-divider">
+
+        <div class="row featurette">
+        <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">Artificial foot<span class="text-muted"></span>  </h2>
+            <p class="lead">Step into a life of mobility and confidence with our state-of-the-art artificial feet. As your dedicated supplier, we provide prosthetics designed for seamless integration and optimal comfort. Elevate your stride and reclaim independence with our precision-engineered artificial feet. Walk with assurance, supplied by us for your journey to a more fulfilling life.</p>
+        </div>
+        <div class="col-md-5 order-md-1">
+        <div class="news-img">
+                                <img src="assets/images/equipment3.jpg" alt="" class="img-fluid">
+                            </div>
+        </div>
+        </div>
+        <hr class="featurette-divider">
+        <div class="row featurette">
+        <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">Medical crutch<span class="text-muted"></span>  </h2>
+            <p class="lead">Move with stability and comfort using our premium medical crutches. As your trusted supplier, we offer reliable support designed to enhance your mobility. Elevate your recovery journey with our carefully crafted crutches, providing the stability you need. Walk with confidence, supplied by us for your well-being.</p>
+        </div>
+        <div class="col-md-5 order-md-1">
+        <div class="news-img">
+                                <img src="assets/images/equipment4.jpg" alt="" class="img-fluid">
+                            </div>
+        </div>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <!-- /END THE FEATURETTES -->
+
+    </div><!-- /.container -->
+
+<!-- Hotline Area Starts -->
+<section class="hotline-area text-center section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>Securecare Contact</h2>
+                    <span>(+971) – 04 450 8488</span>
+                    <p class="pt-3">We provide 24/7 customer support. Please feel free to contact us <br>for inquery case.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Hotline Area End -->
   
 </main>
    
