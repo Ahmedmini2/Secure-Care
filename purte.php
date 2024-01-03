@@ -124,7 +124,7 @@
     <div class="overlay"></div>
     <div class="inner">
       <h3 class="subtitle" id="fadein">Purete.n</h3>
-      <h2 class="title">Flickity Parallax</h2>
+      <h2 class="title" id="fadein">Indulge in the allure of beauty without leaving your home! 🌟 Our online cosmetic shop is your gateway to a world of glamour and self-expression. Explore a myriad of options tailored just for you</h2>
       <a href="https://flickity.metafizzy.co/" target="_blank" class="btn">Tell me more</a>
     </div>
   </div>
