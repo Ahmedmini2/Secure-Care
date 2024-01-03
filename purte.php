@@ -50,8 +50,10 @@
   }
   .hero-slider .carousel-cell .inner .title {
     font-family: "Montserrat", sans-serif;
-    font-size: 1.8rem;
+    font-size: 1rem !important;
+    color: #fff !important;
     line-height: 1.2em;
+    padding: 0px 500px;
     text-transform: uppercase;
     letter-spacing: 3px;
     margin-bottom: 40px;
@@ -177,7 +179,7 @@
     });
   });
         window.onload = function() {
-        window.setTimeout(fadein, 5000); //8 seconds
+        window.setTimeout(fadein, 3000); //8 seconds
         }
         function fadein() {
             document.getElementById('fadein').style.opacity = '1';
