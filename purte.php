@@ -97,7 +97,7 @@
     background: #ff0000;
     border: 0 solid #ff0000;
   }
-    #fadeout {
+    #fadein {
         opacity: 0;
         transition: 1s opacity;
         text-align: center;
