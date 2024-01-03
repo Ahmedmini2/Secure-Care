@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<script src="https://npmcdn.com/flickity@2/dist/flickity.pkgd.js"></script>
+<!-- CSS -->
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
 <style type="text/css">
         body {
             background-color: #000;
@@ -130,7 +131,8 @@
   </div>
 </div>
 
-
+<!-- JavaScript -->
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 <script type="text/javascript">
             var options = {
     accessibility: true,
