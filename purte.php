@@ -122,9 +122,9 @@
 <div class="hero-slider" data-carousel>
   <div class="carousel-cell" style="background-image:url(https://68.media.tumblr.com/57836ee52bc9355ad7c5fed5abf91ccc/tumblr_oiboo6MaRS1slhhf0o1_1280.jpg);">
     <div class="overlay"></div>
-    <div class="inner">
-      <h3 class="subtitle" id="fadein">Purete.n</h3>
-      <h2 class="title" id="fadein">Indulge in the allure of beauty without leaving your home! 🌟 Our online cosmetic shop is your gateway to a world of glamour and self-expression. Explore a myriad of options tailored just for you</h2>
+    <div class="inner" id="fadein">
+      <h3 class="subtitle" >Purete.n</h3>
+      <h2 class="title" >Indulge in the allure of beauty without leaving your home! 🌟 Our online cosmetic shop is your gateway to a world of glamour and self-expression. Explore a myriad of options tailored just for you</h2>
       <a href="https://flickity.metafizzy.co/" target="_blank" class="btn">Tell me more</a>
     </div>
   </div>
@@ -181,6 +181,7 @@
         }
         function fadein() {
             document.getElementById('fadein').style.opacity = '1';
+            
             }
             </script>
 
