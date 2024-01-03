@@ -121,6 +121,7 @@
 <?php include('layout/header.php'); ?>
 <!-- Header Area End -->
 
+<!-- Hero Section  -->
 <div class="hero-slider" data-carousel>
   <div class="carousel-cell" style="background-image:url(https://68.media.tumblr.com/57836ee52bc9355ad7c5fed5abf91ccc/tumblr_oiboo6MaRS1slhhf0o1_1280.jpg);">
     <div class="overlay"></div>
@@ -147,6 +148,10 @@
     </div>
   </div>
 </div>
+
+<!-- End of Hero Section -->
+
+
 
 <?php include('layout/footer.php'); ?>
 <!-- JavaScript -->
@@ -175,6 +180,7 @@
     flkty.slides.forEach(function (slide, i) {
       var image = slides[i];
       var x = (slide.target + flkty.x) * -1/3;
+      console.log(x);
       image.style.backgroundPosition = x + 'px';
     });
   });
