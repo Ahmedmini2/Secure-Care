@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<?php include('layout/head.php'); ?>
 <!-- CSS -->
 <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
 <style type="text/css">
         body {
-            background-color: #000;
-        }
+    background-color: #000;
+  }
   
   .overlay {
     position: absolute;
@@ -99,10 +99,18 @@
   }
         </style>
 
-       
-</head>
 <body>
+     <!-- Preloader Starts -->
+     <?php include('layout/loader.php'); ?>  
+     
+   
+      
 
+<!-- Preloader End -->
+
+<!-- Header Area Starts -->
+<?php include('layout/header.php'); ?>
+<!-- Header Area End -->
 
 <div class="hero-slider" data-carousel>
   <div class="carousel-cell" style="background-image:url(https://68.media.tumblr.com/57836ee52bc9355ad7c5fed5abf91ccc/tumblr_oiboo6MaRS1slhhf0o1_1280.jpg);">
@@ -131,6 +139,7 @@
   </div>
 </div>
 
+<?php include('layout/footer.php'); ?>
 <!-- JavaScript -->
 <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 <script type="text/javascript">
