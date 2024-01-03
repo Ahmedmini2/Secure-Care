@@ -50,7 +50,7 @@
   }
   .hero-slider .carousel-cell .inner .title {
     font-family: "Montserrat", sans-serif;
-    font-size: 3rem;
+    font-size: 1.8rem;
     line-height: 1.2em;
     text-transform: uppercase;
     letter-spacing: 3px;
