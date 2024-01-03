@@ -4,9 +4,7 @@
 <!-- CSS -->
 <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
 <style type="text/css">
-        body {
-    background-color: #000;
-  }
+   
   
   .overlay {
     position: absolute;
@@ -106,6 +104,12 @@
         font-size:32px;
     }
 
+    .short-main{
+        font-style: italic;
+    padding: 20px 0px 20px 40px;
+    font-family: "Roboto Slab", serif;
+}
+    
         </style>
 
 <body>
@@ -150,7 +154,16 @@
 </div>
 
 <!-- End of Hero Section -->
-
+<div class="row">
+    <div class="short-main">
+        <h2>Our Brand</h2>
+    </div>
+</div>
+<div class="row">
+    <div class="brand">
+        <img src="assets/images/lacabine.jpg" class="img-responsive" alt="Lacabine"/>
+    </div>
+</div>
 
 
 <?php include('layout/footer.php'); ?>
