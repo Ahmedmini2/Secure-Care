@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include('layout/head.php'); ?>
-<body>
-     <!-- Preloader Starts -->
-     <?php include('layout/loader.php'); ?>  
-     
-    <style type="text/css">
+<head>
+<style type="text/css">
         body {
             background-color: #000;
         }
@@ -129,12 +125,9 @@
     });
   });
             </script>
+</head>
+<body>
 
-<!-- Preloader End -->
-
-<!-- Header Area Starts -->
-<?php include('layout/header.php'); ?>
-<!-- Header Area End -->
 
 <div class="hero-slider" data-carousel>
   <div class="carousel-cell" style="background-image:url(https://68.media.tumblr.com/57836ee52bc9355ad7c5fed5abf91ccc/tumblr_oiboo6MaRS1slhhf0o1_1280.jpg);">
@@ -162,8 +155,6 @@
     </div>
   </div>
 </div>
-
-<?php include('layout/footer.php'); ?>
 
 
 </body>
