@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<script src="https://npmcdn.com/flickity@2/dist/flickity.pkgd.js"></script>
 <style type="text/css">
         body {
             background-color: #000;
