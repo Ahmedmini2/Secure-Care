@@ -21,7 +21,7 @@
   
   .hero-slider {
     width: 100%;
-    height: 100vh;
+    height: 60vh;
     overflow: hidden;
   }
   .hero-slider .carousel-cell {
