@@ -177,7 +177,7 @@
     });
   });
         window.onload = function() {
-        window.setTimeout(fadein, 3000); //8 seconds
+        window.setTimeout(fadein, 5000); //8 seconds
         }
         function fadein() {
             document.getElementById('fadein').style.opacity = '1';
