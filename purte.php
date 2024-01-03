@@ -5,6 +5,7 @@
      <!-- Preloader Starts -->
      <?php include('layout/loader.php'); ?>  
      <link rel="stylesheet" href="assets/css/custom.css">
+     <script src="assets/js/custom.js"></script>
 
 <!-- Preloader End -->
 
@@ -40,7 +41,7 @@
 </div>
 
 <?php include('layout/footer.php'); ?>
-<script src="assets/js/custom.js"></script>
+
 
 </body>
 </html>
