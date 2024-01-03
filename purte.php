@@ -97,6 +97,13 @@
     background: #ff0000;
     border: 0 solid #ff0000;
   }
+    #fadeout {
+        opacity: 0;
+        transition: 1s opacity;
+        text-align: center;
+        font-size:32px;
+    }
+
         </style>
 
 <body>
@@ -116,7 +123,7 @@
   <div class="carousel-cell" style="background-image:url(https://68.media.tumblr.com/57836ee52bc9355ad7c5fed5abf91ccc/tumblr_oiboo6MaRS1slhhf0o1_1280.jpg);">
     <div class="overlay"></div>
     <div class="inner">
-      <h3 class="subtitle">Slide 1</h3>
+      <h3 class="subtitle" id="fadein">Slide 1</h3>
       <h2 class="title">Flickity Parallax</h2>
       <a href="https://flickity.metafizzy.co/" target="_blank" class="btn">Tell me more</a>
     </div>
@@ -169,6 +176,12 @@
       image.style.backgroundPosition = x + 'px';
     });
   });
+        window.onload = function() {
+        window.setTimeout(fadein, 3000); //8 seconds
+        }
+        function fadein() {
+            document.getElementById('fadein').style.opacity = '1';
+            }
             </script>
 
 </body>
