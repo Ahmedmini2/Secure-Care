@@ -24,7 +24,7 @@ if (!empty($_POST)) {
        $errors[] = 'Message is empty';
    }
 
-   if (empty($errors)) {
+   
     $toEmail = 'info@securecare.com';
     $emailSubject = $subject;
     $headers = ['From' => $email, 'Reply-To' => $email, 'Content-type' => 'text/html; charset=utf-8'];
@@ -33,18 +33,15 @@ if (!empty($_POST)) {
 
     if (mail($toEmail, $emailSubject, $body, $headers)) {
 
-        $errorMessage = 'Done';
-        // header('Location: ../thank-you');
+        
+        header('Location: ../thank-you');
         
     } else {
         $errorMessage = 'Oops, something went wrong. Please try again later';
     }
 
+
 }
-echo $error;
-}
-else { 
-    echo "no post";
-}
+
 
 ?>
