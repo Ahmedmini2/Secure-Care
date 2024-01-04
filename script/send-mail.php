@@ -33,8 +33,8 @@ if (!empty($_POST)) {
 
     if (mail($toEmail, $emailSubject, $body, $headers)) {
 
-        
-        header('Location: ../thank-you');
+        $errorMessage = 'Done';
+        // header('Location: ../thank-you');
         
     } else {
         $errorMessage = 'Oops, something went wrong. Please try again later';
