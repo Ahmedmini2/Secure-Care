@@ -31,6 +31,7 @@ if (!empty($_POST)) {
     $bodyParagraphs = ["Name: {$name}", "Email: {$email}", "Message:", $message];
     $body = join(PHP_EOL, $bodyParagraphs);
 
+    echo $name . ' ' . $email . ' ' . $subject . ' ' . $message ; 
     if (mail($toEmail, $emailSubject, $body, $headers)) {
 
         $errorMessage = 'Done';
