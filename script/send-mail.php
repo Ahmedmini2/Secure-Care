@@ -1,5 +1,6 @@
 <?php 
 
+header('Location: ../thank-you');
 if (!empty($_POST)) {
    $name = $_POST['c_name'];
    $email = $_POST['email'];
@@ -18,31 +19,29 @@ if (!empty($_POST)) {
 
    if (empty($subject)) {
     $errors[] = 'subject is empty';
-    }
+}
 
    if (empty($message)) {
        $errors[] = 'Message is empty';
    }
 
-   
+   if (empty($errors)) {
     $toEmail = 'info@securecare.com';
     $emailSubject = $subject;
     $headers = ['From' => $email, 'Reply-To' => $email, 'Content-type' => 'text/html; charset=utf-8'];
     $bodyParagraphs = ["Name: {$name}", "Email: {$email}", "Message:", $message];
     $body = join(PHP_EOL, $bodyParagraphs);
 
-    echo $name . ' ' . $email . ' ' . $subject . ' ' . $message ; 
     if (mail($toEmail, $emailSubject, $body, $headers)) {
 
-        echo $errorMessage = 'Done';
-        // header('Location: ../thank-you');
+        
+        
         
     } else {
-       echo $errorMessage = 'Oops, something went wrong. Please try again later';
+        $errorMessage = 'Oops, something went wrong. Please try again later';
     }
 
-
 }
-
+}
 
 ?>
