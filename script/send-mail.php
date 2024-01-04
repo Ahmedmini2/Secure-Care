@@ -42,5 +42,8 @@ if (!empty($_POST)) {
 
 }
 }
+else { 
+    echo "no post";
+}
 
 ?>
