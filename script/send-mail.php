@@ -18,7 +18,7 @@ if (!empty($_POST)) {
 
    if (empty($subject)) {
     $errors[] = 'subject is empty';
-}
+    }
 
    if (empty($message)) {
        $errors[] = 'Message is empty';
@@ -41,6 +41,7 @@ if (!empty($_POST)) {
     }
 
 }
+echo "error have";
 }
 else { 
     echo "no post";
