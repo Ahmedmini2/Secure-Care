@@ -34,11 +34,11 @@ if (!empty($_POST)) {
     echo $name . ' ' . $email . ' ' . $subject . ' ' . $message ; 
     if (mail($toEmail, $emailSubject, $body, $headers)) {
 
-        $errorMessage = 'Done';
+        echo $errorMessage = 'Done';
         // header('Location: ../thank-you');
         
     } else {
-        $errorMessage = 'Oops, something went wrong. Please try again later';
+       echo $errorMessage = 'Oops, something went wrong. Please try again later';
     }
 
 
