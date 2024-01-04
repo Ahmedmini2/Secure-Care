@@ -41,7 +41,7 @@ if (!empty($_POST)) {
     }
 
 }
-echo "error have";
+echo $error;
 }
 else { 
     echo "no post";
