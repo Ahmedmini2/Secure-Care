@@ -168,7 +168,7 @@ input:focus,textarea:focus{
     padding:7px 10px;
     text-decoration:none;
     display:inline-block;
-    color:#222;
+    color:#000000;
     font-weight:500;
     font-size:12px;
     text-transform:uppercase;
@@ -355,6 +355,7 @@ body.mobile-nav-active #mobile-nav-toggle{
     position:fixed;
     left:0;
     top:48px;
+    background-color: #e1e1e140;
     right:0;
     transition:all 0.5s;
     z-index:997
@@ -452,6 +453,31 @@ body.mobile-nav-active #mobile-nav-toggle{
 .banner-area6{
     padding:240px 0 350px;
     background-image:url("../images/main6.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    position:relative
+}
+
+.banner-area-privacy{
+    padding:240px 0 350px;
+    background-image:url("../images/privacy.jpg");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    position:relative
+}
+.banner-area-terms{
+    padding:240px 0 350px;
+    background-image:url("../images/Terms-and-Conditions.jpg");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    position:relative
+}
+.banner-area-ship{
+    padding:240px 0 350px;
+    background-image:url("../images/shipment.jpg");
     background-repeat:no-repeat;
     background-position:center;
     background-size:cover;
@@ -2921,3 +2947,17 @@ h6{
   .about .content p:last-child {
     margin-bottom: 0;
   }
+
+  .ml-20{
+    margin-left: 10rem;
+  }
+
+
+  #header.header-scrolled .lang {
+    color: black;
+}
+
+
+
+
+   

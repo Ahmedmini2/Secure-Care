@@ -1,27 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include('layout/head.php'); ?>
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+<link rel="stylesheet" href="assets/css/custom.css">
 <body>
 <?php include('layout/loader.php'); ?>  
 <?php include('lang/lang.php'); ?>
 <?php include('layout/header.php'); ?>
 
-   
 
-    <!-- Banner Area Starts -->
-    <section class="banner-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5">
-                    <h4>Caring for better life</h4>
-                    <h1>Securecare</h1>
-                    <p>At SecureCare Medical Equipment, we believe in more than just providing medical equipment; we're dedicated to transforming lives. Our philosophy goes beyond the transactional nature of supplying products. We recognize that each piece of equipment we offer has the potential to make a profound impact on the lives of individuals and their loved ones.</p>
-                    <a href="contact" class="template-btn mt-3">Contact Us</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Banner Area End -->
+<!-- Hero Section  -->
+<div class="hero-slider" data-carousel>
+  <div class="carousel-cell" style="background-image:url(assets/images/main-2.png);">
+    <div class="overlay"></div>
+    <div class="inner" id="fadein">
+      <h3 class="subtitle" >Caring for better life</h3>
+      <h2 class="title" >At SecureCare Medical Equipment, we believe in more than just providing medical equipment; we're dedicated to transforming lives. Our philosophy goes beyond the transactional nature of supplying products. We recognize that each piece of equipment we offer has the potential to make a profound impact on the lives of individuals and their loved ones.</h2>
+      <a href="contact" class="btn">Contact Us</a>
+    </div>
+  </div>
+<div class="carousel-cell" style="background-image:url(assets/images/main-3.png);">
+    <div class="overlay"></div>
+    <div class="inner">
+      <h3 class="subtitle">Securecare</h3>
+      <h2 class="title">At SecureCare Medical Equipment, our foundation is built on a clear set of missions and values that shape our identity and drive our commitment to excellence.</h2>
+      <a href="about" class="btn">About Us</a>
+    </div>
+  </div>
+<div class="carousel-cell" style="background-image:url(assets/images/main-4.png);">
+    <div class="overlay"></div>
+    <div class="inner">
+      <h3 class="subtitle">We are happy to surve you</h3>
+      <h2 class="title">Our team at Secure Care Medical Equipment is dedicated to delivering exceptional service and quality products. Learn more about the individuals driving our mission and ensuring the well-being of our customers.</h2>
+      <a href="contact" class="btn">Learn More</a>
+    </div>
+  </div>
+</div>
+
+<!-- End of Hero Section -->
+
+  
 
     <!-- Feature Area Starts -->
     <section class="feature-area section-padding">
@@ -194,15 +212,15 @@
                 <div class="col-lg-5 offset-lg-1 align-self-center">
                     <div class="appointment-form text-center mt-5 mt-lg-0">
                         <h3 class="mb-5">Contact Us </h3>
-                        <form action="#" method="POST">
+                        <form action="script/send-mail.php" method="POST">
                             <div class="form-group">
-                                <input type="text" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" required>
+                                <input type="text" placeholder="Your Name" name="c_name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" required>
                             </div>
                             <div class="form-group">
-                                <input type="email" placeholder="Your Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" required> 
+                                <input type="email" placeholder="Your Email" name="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" required> 
                             </div>
                             <div class="form-group">
-                                <input type="text"  placeholder="Subject" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Subject'" required>
+                                <input type="text"  placeholder="Subject" name="subject" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Subject'" required>
                             </div>
                             <div class="form-group">
                                 <textarea name="message" cols="20" rows="7"  placeholder="Message" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Message'" required></textarea>
