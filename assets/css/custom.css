@@ -15,28 +15,19 @@
   overflow: hidden;
 }
 .hero-slider .img1 {
-  width: 100%;
-  background-image:url(assets/images/main-4.png);
-  height: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  
+  background-image:url(../images/main-4.png);
+
 }
 .hero-slider .img2 {
-  width: 100%;
-  background-image:url(assets/images/main-3.png);
-  height: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+
+  background-image:url(../images/main-3.png);
+
 }
 .hero-slider .img3 {
-  width: 100%;
-  background-image:url(assets/images/main-2.png);
-  height: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  
+  background-image:url(../images/main-2.png);
+  
 }
 
 .hero-slider .carousel-cell {
@@ -142,12 +133,12 @@
 
     .hero-slider .img1 {
       
-      background-image:url(assets/images/main-4.png?tr=rt-90);
+      background-image:url(../images/main-4.png?tr=rt-90) !important;
       
     }
     .hero-slider .img2 {
       
-      background-image:url(assets/images/main-3.png?tr=rt-90);
+      background-image:url(../images/main-3.png?tr=rt-90) !important;
       
     }
   }
