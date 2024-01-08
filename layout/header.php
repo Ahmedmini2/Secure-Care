@@ -40,7 +40,8 @@
                                  <li><a href="paper_products">Trading Paper Products</a></li>
                                  <li><a href="pharmaceutical">Trading Pharmaceutical Non-Drug Products</a></li>
                                  <li><a href="cosmetics">Trading Cosmetics & Perfumes</a></li>
-                                 <li><a href="surgical">Trading Surgical and Medical Requisites</a></li>
+                                 <li><a href="surgical">Trading Surgical and Home Use Medical Devices</a></li>
+                                 
                              </ul>
 
 

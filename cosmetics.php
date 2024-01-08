@@ -87,7 +87,7 @@
       </div>
       <div class="col-md-5 order-md-1">
       <div class="news-img">
-                            <img src="assets/images/mak.jpg" alt="" class="img-fluid">
+                            <img src="assets/images/cos.jpg" alt="" class="img-fluid">
                         </div>
       </div>
     </div>

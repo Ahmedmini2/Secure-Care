@@ -11,7 +11,7 @@
                                 <li class="mb-2"><a href="paper_products">Trading Paper Products</a></li>
                                 <li class="mb-2"><a href="pharmaceutical">Trading Pharmaceutical Non-Drug Products</a></li>
                                 <li class="mb-2"><a href="cosmetics">Trading Cosmetics & Perfumes</a></li>
-                                <li class="mb-2"><a href="surgical">Trading Surgical and Medical Requisites</a></li>
+                                <li class="mb-2"><a href="surgical">Trading Surgical and Home Use Medical Devices</a></li>
                             
                             </ul>
                         </div>

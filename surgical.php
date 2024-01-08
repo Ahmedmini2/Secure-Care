@@ -16,7 +16,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Surgical</h1>
+                    <h1> Surgical and Home Use Medical Devices</h1>
                     <a href="index">Home</a> <span>|</span> <a href="Surgical">Surgical</a>
                 </div>
             </div>
@@ -103,6 +103,17 @@
         </div>
 
         
+
+        </div>
+
+        <div class="container">
+            <div class="row py-2 px-2 justify-content-center">
+                <h2>Home Use Medical Devices</h2>
+            </div>
+
+            <div class="row py-2 px-2 justify-content-center">
+                
+            </div>
 
         </div>
     </section>
