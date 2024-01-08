@@ -11,7 +11,7 @@
 
 <!-- Hero Section  -->
 <div class="hero-slider" data-carousel>
-  <div class="carousel-cell" style="background-image:url(assets/images/main-2.png);">
+  <div class="carousel-cell" style="background-image:url(assets/images/main-4.png);">
     <div class="overlay"></div>
     <div class="inner" id="fadein">
       <h3 class="subtitle" >Caring for better life</h3>
@@ -27,7 +27,7 @@
       <a href="about" class="btn">About Us</a>
     </div>
   </div>
-<div class="carousel-cell" style="background-image:url(assets/images/main-4.png);">
+<div class="carousel-cell" style="background-image:url(assets/images/main-2.png);">
     <div class="overlay"></div>
     <div class="inner">
       <h3 class="subtitle">We are happy to surve you</h3>
@@ -121,7 +121,7 @@
                             <div class="slide-img">
                                 <img src="assets/images/department2.png" alt="" class="img-fluid">
                                 <div class="hover-state">
-                                    <a href="paper-products"><i class="fa fa-stethoscope"></i></a>
+                                    <a href="paper_products"><i class="fa fa-stethoscope"></i></a>
                                 </div>
                             </div>
                             <div class="single-department item-padding text-center">
