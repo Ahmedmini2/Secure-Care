@@ -11,7 +11,7 @@
 
 <!-- Hero Section  -->
 <div class="hero-slider" data-carousel>
-  <div class="carousel-cell img1" style="background-image:url(assets/images/main-4.png);">
+  <div class="carousel-cell img1" >
     <div class="overlay"></div>
     <div class="inner" id="fadein">
       <h3 class="subtitle" >Caring for better life</h3>
@@ -19,7 +19,7 @@
       <a href="contact" class="btn">Contact Us</a>
     </div>
   </div>
-<div class="carousel-cell img2" style="background-image:url(assets/images/main-3.png);">
+<div class="carousel-cell img2" >
     <div class="overlay"></div>
     <div class="inner">
       <h3 class="subtitle">Securecare</h3>
@@ -27,7 +27,7 @@
       <a href="about" class="btn">About Us</a>
     </div>
   </div>
-<div class="carousel-cell img3" style="background-image:url(assets/images/main-2.png);">
+<div class="carousel-cell img3" >
     <div class="overlay"></div>
     <div class="inner">
       <h3 class="subtitle">We are happy to surve you</h3>
