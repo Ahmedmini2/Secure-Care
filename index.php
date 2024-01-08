@@ -45,7 +45,7 @@
 
     <!-- Welcome Area Starts -->
     <section class="welcome-area section-padding3">
-        <div class="container">
+        <div class="container pt-4">
             <div class="row">
                 <div class="col-lg-5 align-self-center">
                     <div class="welcome-img">
